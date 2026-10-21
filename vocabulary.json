@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 1,
+    "english": "abandon",
+    "bangla": "ত্যাগ করা",
+    "example": "He abandoned the plan.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 2,
+    "english": "ability",
+    "bangla": "ক্ষমতা / দক্ষতা",
+    "example": "She has the ability to solve complex problems.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 3,
+    "english": "able",
+    "bangla": "সক্ষম",
+    "example": "He is able to speak three languages.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 4,
+    "english": "abolish",
+    "bangla": "বিলুপ্ত করা / রদ করা",
+    "example": "The government decided to abolish the old law.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 5,
+    "english": "abortion",
+    "bangla": "গর্ভপাত",
+    "example": "The country updated its laws regarding abortion.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 6,
+    "english": "about",
+    "bangla": "সম্পর্কে / প্রায়",
+    "example": "We talked about our travel plans.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 7,
+    "english": "above",
+    "bangla": "উপরে",
+    "example": "The picture hangs above the fireplace.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 8,
+    "english": "abroad",
+    "bangla": "বিদেশে",
+    "example": "She went abroad for higher education.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 9,
+    "english": "absence",
+    "bangla": "অনুপস্থিতি",
+    "example": "His absence was noticed by everyone.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 10,
+    "english": "absent",
+    "bangla": "অনুপস্থিত",
+    "example": "He was absent from school yesterday.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 11,
+    "english": "absolute",
+    "bangla": "সম্পূর্ণ / পরম",
+    "example": "She has absolute trust in her doctor.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 12,
+    "english": "absorb",
+    "bangla": "শোষণ করা",
+    "example": "Plants absorb water through their roots.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 13,
+    "english": "abstract",
+    "bangla": "বিমূর্ত",
+    "example": "Beauty is an abstract concept.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 14,
+    "english": "absurd",
+    "bangla": "হাস্যকর / অযৌক্তিক",
+    "example": "That proposal sounds completely absurd.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 15,
+    "english": "abundant",
+    "bangla": "প্রচুর / প্রাচুর্যময়",
+    "example": "Water is abundant in this region.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 16,
+    "english": "academic",
+    "bangla": "শিক্ষাগত / একাডেমিক",
+    "example": "She achieved great academic success.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 17,
+    "english": "academy",
+    "bangla": "একাডেমি / শিক্ষা প্রতিষ্ঠান",
+    "example": "He joined a military academy.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 18,
+    "english": "accelerate",
+    "bangla": "গতি বাড়ানো / ত্বরান্বিত করা",
+    "example": "The car accelerated as it merged onto the highway.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 19,
+    "english": "accent",
+    "bangla": "উচ্চারণভঙ্গি",
+    "example": "He speaks English with a French accent.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 20,
+    "english": "accept",
+    "bangla": "গ্রহণ করা",
+    "example": "She accepted the job offer gladly.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 21,
+    "english": "acceptable",
+    "bangla": "গ্রহণযোগ্য",
+    "example": "His explanation was acceptable to the board.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 22,
+    "english": "access",
+    "bangla": "প্রবেশাধিকার / সুযোগ",
+    "example": "Students have access to the library.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 23,
+    "english": "accessible",
+    "bangla": "সহজবোধ্য / গম্য",
+    "example": "The building is accessible for disabled people.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 24,
+    "english": "accident",
+    "bangla": "দুর্ঘটনা",
+    "example": "He was injured in a road accident.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 25,
+    "english": "accidental",
+    "bangla": "আকস্মিক / দুর্ঘটনাবশত",
+    "example": "The meeting was purely accidental.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 26,
+    "english": "accommodate",
+    "bangla": "বাসস্থান সংস্থান করা",
+    "example": "The hotel can accommodate five hundred guests.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 27,
+    "english": "accommodation",
+    "bangla": "বাসস্থান",
+    "example": "Finding cheap accommodation in London is hard.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 28,
+    "english": "accompany",
+    "bangla": "সঙ্গ দেওয়া",
+    "example": "My friend will accompany me to the hospital.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 29,
+    "english": "accomplish",
+    "bangla": "সাধন করা / অর্জন করা",
+    "example": "She accomplished all her goals for the year.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 30,
+    "english": "according",
+    "bangla": "অনুসারে",
+    "example": "According to the report, sales increased.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 31,
+    "english": "account",
+    "bangla": "হিসাব / বিবরণ",
+    "example": "He opened a new bank account.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 32,
+    "english": "accountant",
+    "bangla": "হিসাবরক্ষক",
+    "example": "She works as an accountant in a firm.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 33,
+    "english": "accumulate",
+    "bangla": "জমা করা / সঞ্চয় করা",
+    "example": "Dust had accumulated on the bookshelf.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 34,
+    "english": "accurate",
+    "bangla": "সঠিক / নির্ভুল",
+    "example": "Please make sure your report is accurate.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 35,
+    "english": "accusation",
+    "bangla": "অভিযোগ",
+    "example": "He denied the accusation against him.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 36,
+    "english": "accuse",
+    "bangla": "অভিযুক্ত করা",
+    "example": "They accused him of stealing the bike.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 37,
+    "english": "achieve",
+    "bangla": "অর্জন করা",
+    "example": "Hard work will help you achieve your goals.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 38,
+    "english": "achievement",
+    "bangla": "কৃতিত্ব / অর্জন",
+    "example": "Graduating with honors was a great achievement.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 39,
+    "english": "acid",
+    "bangla": "এসিড / অম্ল",
+    "example": "Vinegar contains a mild acid.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 40,
+    "english": "acknowledge",
+    "bangla": "স্বীকার করা",
+    "example": "He acknowledged his mistake publicly.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 41,
+    "english": "acquire",
+    "bangla": "অর্জন করা / লাভ করা",
+    "example": "He acquired a new skill through practice.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 42,
+    "english": "across",
+    "bangla": "আরপাড়ে / জুড়ে",
+    "example": "They walked across the wooden bridge.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 43,
+    "english": "act",
+    "bangla": "কাজ করা / অভিনয় করা",
+    "example": "Think carefully before you act.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 44,
+    "english": "action",
+    "bangla": "পদক্ষেপ / কাজ",
+    "example": "We need to take immediate action.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 45,
+    "english": "active",
+    "bangla": "সক্রিয়",
+    "example": "She leads a very active lifestyle.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 46,
+    "english": "activist",
+    "bangla": "কর্মী / আন্দোলনকারী",
+    "example": "She is a well-known human rights activist.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 47,
+    "english": "activity",
+    "bangla": "কার্যক্রম",
+    "example": "Swimming is a refreshing outdoor activity.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 48,
+    "english": "actor",
+    "bangla": "অভিনেতা",
+    "example": "The actor performed brilliantly in the movie.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 49,
+    "english": "actress",
+    "bangla": "অভিনেত্রী",
+    "example": "She is a famous theater actress.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 50,
+    "english": "actual",
+    "bangla": "প্রকৃত / আসল",
+    "example": "What was the actual reason for his departure?",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 51,
+    "english": "actually",
+    "bangla": "প্রকৃতপক্ষে",
+    "example": "I actually enjoyed the lecture.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 52,
+    "english": "adapt",
+    "bangla": "খাপ খাইয়ে নেওয়া",
+    "example": "Animals adapt to their natural environment.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 53,
+    "english": "add",
+    "bangla": "যোগ করা",
+    "example": "Add some sugar to the tea.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 54,
+    "english": "addiction",
+    "bangla": "আসক্তি",
+    "example": "Screen addiction is a growing concern among teens.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 55,
+    "english": "addition",
+    "bangla": "সংযোজন / যোগ",
+    "example": "In addition to reading, he loves writing.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 56,
+    "english": "additional",
+    "bangla": "অতিরিক্ত",
+    "example": "We need additional information to complete the form.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 57,
+    "english": "address",
+    "bangla": "ঠিকানা / ভাষণ দেওয়া",
+    "example": "Please write your home address here.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 58,
+    "english": "adequate",
+    "bangla": "পর্যাপ্ত",
+    "example": "Make sure you get adequate sleep every night.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 59,
+    "english": "adjust",
+    "bangla": "সামঞ্জস্য করা / ঠিক করা",
+    "example": "He adjusted his tie before the interview.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 60,
+    "english": "administer",
+    "bangla": "পরিচালনা করা / প্রদান করা",
+    "example": "The doctor will administer the medication.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 61,
+    "english": "administration",
+    "bangla": "প্রশাসন",
+    "example": "The school administration announced new rules.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 62,
+    "english": "admire",
+    "bangla": "প্রশংসা করা / শ্রদ্ধা করা",
+    "example": "I admire her courage and honesty.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 63,
+    "english": "admission",
+    "bangla": "ভর্তি / প্রবেশাধীকার",
+    "example": "He gained admission to a top university.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 64,
+    "english": "admit",
+    "bangla": "স্বীকার করা / ভর্তি করা",
+    "example": "He admitted that he was wrong.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 65,
+    "english": "adolescent",
+    "bangla": "কিশোর-কিশোরী",
+    "example": "Adolescent years are full of change.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 66,
+    "english": "adopt",
+    "bangla": "দত্তক নেওয়া / গ্রহণ করা",
+    "example": "They decided to adopt a child.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 67,
+    "english": "adult",
+    "bangla": "প্রাপ্তবয়স্ক",
+    "example": "Tickets are cheaper for adults than children.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 68,
+    "english": "advance",
+    "bangla": "অগ্রগতি / আগে বাড়া",
+    "example": "Technology continues to advance rapidly.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 69,
+    "english": "advanced",
+    "bangla": "উন্নত / উচ্চতর",
+    "example": "She is studying advanced mathematics.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 70,
+    "english": "advantage",
+    "bangla": "সুবিধা",
+    "example": "Having fluent English is a big advantage.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 71,
+    "english": "adventure",
+    "bangla": "অভিযান / দুঃসাহসিক কাজ",
+    "example": "They went on a mountain adventure.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 72,
+    "english": "advertise",
+    "bangla": "বিজ্ঞাপন দেওয়া",
+    "example": "Companies advertise products on social media.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 73,
+    "english": "advertisement",
+    "bangla": "বিজ্ঞাপন",
+    "example": "I saw an interesting advertisement on television.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 74,
+    "english": "advice",
+    "bangla": "পরামর্শ",
+    "example": "Listen to your parents' advice.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 75,
+    "english": "advise",
+    "bangla": "পরামর্শ দেওয়া",
+    "example": "The lawyer advised him to stay silent.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 76,
+    "english": "advocate",
+    "bangla": "সমর্থন করা / আইনজীবী",
+    "example": "She is an advocate for mental health awareness.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 77,
+    "english": "aesthetic",
+    "bangla": "সৌন্দর্যবিষয়ক / নান্দনিক",
+    "example": "The room has a modern aesthetic appeal.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 78,
+    "english": "affair",
+    "bangla": "বিষয় / ঘটনা",
+    "example": "Foreign policy is an important state affair.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 79,
+    "english": "affect",
+    "bangla": "প্রভাবিত করা",
+    "example": "Stress can negatively affect your health.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 80,
+    "english": "affection",
+    "bangla": "স্নেহ / ভালোবাসা",
+    "example": "She has deep affection for her pets.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 81,
+    "english": "afford",
+    "bangla": "সামর্থ্য থাকা",
+    "example": "They cannot afford to buy a new house right now.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 82,
+    "english": "afraid",
+    "bangla": "ভীত / শঙ্কিত",
+    "example": "Don't be afraid of making mistakes.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 83,
+    "english": "after",
+    "bangla": "পরে",
+    "example": "We went home after the movie ended.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 84,
+    "english": "afternoon",
+    "bangla": "বিকেল",
+    "example": "We played football yesterday afternoon.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 85,
+    "english": "afterward",
+    "bangla": "পরবর্তীতে / পরে",
+    "example": "They had dinner and went for a walk afterward.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 86,
+    "english": "again",
+    "bangla": "আবার",
+    "example": "Please say that again.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 87,
+    "english": "against",
+    "bangla": "विरुद्धে / বিপরীতে",
+    "example": "They played against a strong football team.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 88,
+    "english": "age",
+    "bangla": "বয়স / যুগ",
+    "example": "What is your current age?",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 89,
+    "english": "agency",
+    "bangla": "সংস্থা / এজেন্সি",
+    "example": "He works for a travel agency.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 90,
+    "english": "agenda",
+    "bangla": "আলোচ্যসূচি",
+    "example": "What is the next topic on the meeting agenda?",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 91,
+    "english": "agent",
+    "bangla": "প্রতিনিধি / এজেন্ট",
+    "example": "The real estate agent showed us three houses.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 92,
+    "english": "aggression",
+    "bangla": "আগ্রাসন / সহিংসতা",
+    "example": "The defense force reacted to external aggression.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 93,
+    "english": "aggressive",
+    "bangla": "আক্রমণাত্মক",
+    "example": "The dog became aggressive when provoked.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 94,
+    "english": "ago",
+    "bangla": "আগে",
+    "example": "They moved to this city five years ago.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 95,
+    "english": "agony",
+    "bangla": "তীব্র যন্ত্রণা",
+    "example": "He was in agony after twisting his ankle.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 96,
+    "english": "agree",
+    "bangla": "একমত হওয়া",
+    "example": "I agree with your suggestion completely.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 97,
+    "english": "agreement",
+    "bangla": "চুক্তি / সম্মতি",
+    "example": "Both parties signed the peace agreement.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 98,
+    "english": "agriculture",
+    "bangla": "কৃষি",
+    "example": "Agriculture is vital to the economy.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 99,
+    "english": "ahead",
+    "bangla": "সামনে",
+    "example": "Go straight ahead and turn left.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 100,
+    "english": "aid",
+    "bangla": "সাহায্য / সহায়তা",
+    "example": "The disaster relief aid arrived quickly.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 101,
+    "english": "aim",
+    "bangla": "লক্ষ্য / উদ্দেশ্য",
+    "example": "His main aim is to become a doctor.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 102,
+    "english": "air",
+    "bangla": "বায়ু / বাতাস",
+    "example": "Fresh air is good for your health.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 103,
+    "english": "aircraft",
+    "bangla": "উড়োজাহাজ / বিমান",
+    "example": "The aircraft landed safely at the airport.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 104,
+    "english": "airline",
+    "bangla": "বিমানসংস্থা",
+    "example": "She booked a ticket with a private airline.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 105,
+    "english": "airport",
+    "bangla": "বিমানবন্দর",
+    "example": "We arrived at the airport two hours early.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 106,
+    "english": "alarm",
+    "bangla": "সতর্কসংকেত / অ্যালার্ম",
+    "example": "The fire alarm sounded in the middle of the night.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 107,
+    "english": "album",
+    "bangla": "অ্যালবাম",
+    "example": "She showed me her childhood photo album.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 108,
+    "english": "alcohol",
+    "bangla": "মদ / অ্যালকোহল",
+    "example": "Drinking alcohol is harmful to health.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 109,
+    "english": "alert",
+    "bangla": "সতর্ক",
+    "example": "Be alert while driving at night.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 110,
+    "english": "alien",
+    "bangla": "ভিনগ্রহী / বিদেশী",
+    "example": "Scientists search for signs of alien life.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 111,
+    "english": "alike",
+    "bangla": "একই রকম / সদৃশ",
+    "example": "The two sisters look very alike.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 112,
+    "english": "alive",
+    "bangla": "জীবিত",
+    "example": "The fish is still alive in the bucket.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 113,
+    "english": "all",
+    "bangla": "সব / সমস্ত",
+    "example": "All students passed the examination.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 114,
+    "english": "allegation",
+    "bangla": "অভিযোগ / দাবি",
+    "example": "The official denied the corruption allegation.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 115,
+    "english": "alley",
+    "bangla": "গলিপথ / গলি",
+    "example": "They walked down a narrow alley.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 116,
+    "english": "alliance",
+    "bangla": "জোট / মিত্রতা",
+    "example": "The two countries formed a military alliance.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 117,
+    "english": "allow",
+    "bangla": "অনুমতি দেওয়া",
+    "example": "Please allow me to introduce myself.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 118,
+    "english": "ally",
+    "bangla": "মিত্র / সহযোগী",
+    "example": "They have been strong political allies.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 119,
+    "english": "almost",
+    "bangla": "প্রায়",
+    "example": "It is almost time for lunch.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 120,
+    "english": "alone",
+    "bangla": "একা / একাকী",
+    "example": "He prefers to live alone in the countryside.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 121,
+    "english": "along",
+    "bangla": "বরাবর / সাথে",
+    "example": "We walked along the riverbank.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 122,
+    "english": "already",
+    "bangla": "ইতিমধ্যে",
+    "example": "I have already finished my homework.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 123,
+    "english": "also",
+    "bangla": "এছাড়াও / ও",
+    "example": "She speaks English and also knows French.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 124,
+    "english": "alter",
+    "bangla": "পরিবর্তন করা",
+    "example": "She had to alter her plans due to rain.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 125,
+    "english": "alternative",
+    "bangla": "বিকল্প",
+    "example": "Solar power is a clean alternative energy source.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 126,
+    "english": "although",
+    "bangla": "যদিও",
+    "example": "Although it rained, we enjoyed the trip.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 127,
+    "english": "altogether",
+    "bangla": "মোটের ওপর / সম্পূর্ণরূপে",
+    "example": "That is an altogether different situation.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 128,
+    "english": "always",
+    "bangla": "সবসময়",
+    "example": "She always arrives on time.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 129,
+    "english": "amaze",
+    "bangla": "বিস্মিত করা",
+    "example": "His magic tricks never fail to amaze me.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 130,
+    "english": "amazing",
+    "bangla": "আশ্চর্যজনক / চমৎকার",
+    "example": "The sunset looked amazing yesterday evening.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 131,
+    "english": "ambassador",
+    "bangla": "রাষ্ট্রদূত",
+    "example": "He was appointed as the ambassador to Japan.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 132,
+    "english": "ambition",
+    "bangla": "উচ্চাকাঙ্ক্ষা / লক্ষ্য",
+    "example": "Her ambition is to become a scientist.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 133,
+    "english": "ambitious",
+    "bangla": "উচ্চাকাঙ্ক্ষী",
+    "example": "He is a very ambitious young man.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 134,
+    "english": "ambulance",
+    "bangla": "অ্যাম্বুলেন্স / রোগী বহনকারী গাড়ি",
+    "example": "The ambulance arrived within five minutes.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 135,
+    "english": "amend",
+    "bangla": "সংশোধন করা",
+    "example": "Parliament voted to amend the constitution.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 136,
+    "english": "amendment",
+    "bangla": "সংশোধনী",
+    "example": "The court approved the second amendment.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 137,
+    "english": "among",
+    "bangla": "মধ্যে (অনেকের)",
+    "example": "He was sitting among his friends.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 138,
+    "english": "amount",
+    "bangla": "পরিমাণ",
+    "example": "A large amount of money was raised.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 139,
+    "english": "ample",
+    "bangla": "প্রচুর / পর্যাপ্ত",
+    "example": "There is ample parking space outside.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 140,
+    "english": "amuse",
+    "bangla": "বিনোদন দেওয়া / আনন্দ দেওয়া",
+    "example": "His jokes amused everyone at the party.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 141,
+    "english": "amusement",
+    "bangla": "বিনোদন / কৌতুক",
+    "example": "The children went to the amusement park.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 142,
+    "english": "analysis",
+    "bangla": "বিশ্লেষণ",
+    "example": "The data requires further analysis.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 143,
+    "english": "analyze",
+    "bangla": "বিশ্লেষণ করা",
+    "example": "We need to analyze the results carefully.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 144,
+    "english": "ancestor",
+    "bangla": "পূর্বপুরুষ",
+    "example": "His ancestors came from Ireland.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 145,
+    "english": "ancient",
+    "bangla": "প্রাচীন",
+    "example": "They visited an ancient temple in Rome.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 146,
+    "english": "anger",
+    "bangla": "রাগ / ক্রোধ",
+    "example": "He controlled his anger during the debate.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 147,
+    "english": "angle",
+    "bangla": "কোণ / দৃষ্টিভঙ্গি",
+    "example": "A triangle has three internal angles.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 148,
+    "english": "angry",
+    "bangla": "রাগান্বিত",
+    "example": "She was angry because he came late.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 149,
+    "english": "anguish",
+    "bangla": "তীব্র মানসিক যন্ত্রণা",
+    "example": "She expressed deep anguish over her loss.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 150,
+    "english": "animal",
+    "bangla": "প্রাণী / পশু",
+    "example": "The elephant is the largest land animal.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 151,
+    "english": "anniversary",
+    "bangla": "বার্ষিকী",
+    "example": "They celebrated their tenth wedding anniversary.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 152,
+    "english": "announce",
+    "bangla": "ঘোষণা করা",
+    "example": "The headmaster announced the holiday schedule.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 153,
+    "english": "announcement",
+    "bangla": "ঘোষণা",
+    "example": "We listened to the official announcement.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 154,
+    "english": "annoy",
+    "bangla": "বিরক্ত করা",
+    "example": "Loud noises always annoy him.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 155,
+    "english": "annual",
+    "bangla": "বার্ষিক",
+    "example": "The company holds an annual meeting in January.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 156,
+    "english": "anonymous",
+    "bangla": "বেনামী / নামহীন",
+    "example": "The donor wished to remain anonymous.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 157,
+    "english": "another",
+    "bangla": "অন্য একটি / আরেকটা",
+    "example": "Would you like another cup of tea?",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 158,
+    "english": "answer",
+    "bangla": "উত্তর / জবাব দেওয়া",
+    "example": "She answered all the questions correctly.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 159,
+    "english": "anticipate",
+    "bangla": "পূর্বানুমান করা / প্রত্যাশা করা",
+    "example": "We anticipate a large crowd at the concert.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 160,
+    "english": "anxiety",
+    "bangla": "উদ্বেগ / দুশ্চিন্তা",
+    "example": "Deep breathing helps reduce anxiety.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 161,
+    "english": "anxious",
+    "bangla": "উদ্বিগ্ন / চিন্তিত",
+    "example": "He was anxious about his test results.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 162,
+    "english": "any",
+    "bangla": "যেকোনো / কোনো",
+    "example": "Do you have any questions for me?",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 163,
+    "english": "anybody",
+    "bangla": "কেউ / যেকোনো ব্যক্তি",
+    "example": "Is anybody home right now?",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 164,
+    "english": "anymore",
+    "bangla": "আর / এখন আর",
+    "example": "He doesn't work here anymore.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 165,
+    "english": "anyone",
+    "bangla": "কেউ",
+    "example": "Does anyone know the answer?",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 166,
+    "english": "anything",
+    "bangla": "কিছু / যেকোনো কিছু",
+    "example": "I don't have anything to hide.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 167,
+    "english": "anyway",
+    "bangla": "যাইহোক",
+    "example": "It was raining, but we went out anyway.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 168,
+    "english": "anywhere",
+    "bangla": "যেকোনো স্থানে",
+    "example": "You can sit anywhere you like.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 169,
+    "english": "apart",
+    "bangla": "আলাদা / পৃথক",
+    "example": "They live five miles apart from each other.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 170,
+    "english": "apartment",
+    "bangla": "অ্যাপার্টমেন্ট / ফ্ল্যাট",
+    "example": "She rented a small apartment downtown.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 171,
+    "english": "apologize",
+    "bangla": "ক্ষমাপ্রার্থনা করা",
+    "example": "He apologized for his rude behavior.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 172,
+    "english": "apology",
+    "bangla": "ক্ষমা প্রার্থনা",
+    "example": "She accepted his sincere apology.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 173,
+    "english": "apparent",
+    "bangla": "স্পষ্ট / প্রতীয়মান",
+    "example": "It became apparent that he was telling the truth.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 174,
+    "english": "appeal",
+    "bangla": "আবেদন / আকর্ষণ",
+    "example": "The charity made an appeal for donations.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 175,
+    "english": "appear",
+    "bangla": "উপস্থিত হওয়া / মনে হওয়া",
+    "example": "The sun began to appear above the clouds.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 176,
+    "english": "appearance",
+    "bangla": "চেহারা / উপস্থিতি",
+    "example": "His sudden appearance surprised everyone.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 177,
+    "english": "appetite",
+    "bangla": "ক্ষুধা / রুচি",
+    "example": "A long walk always increases my appetite.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 178,
+    "english": "applaud",
+    "bangla": "করতালিতে প্রশংসা করা",
+    "example": "The audience applauded the singer warmly.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 179,
+    "english": "apple",
+    "bangla": "আপেল",
+    "example": "She ate a fresh red apple.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 180,
+    "english": "appliance",
+    "bangla": "গৃহস্থালি সরঞ্জাম",
+    "example": "Modern kitchen appliances save a lot of time.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 181,
+    "english": "applicable",
+    "bangla": "প্রযোজ্য",
+    "example": "This rule is applicable to all students.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 182,
+    "english": "applicant",
+    "bangla": "আবেদনকারী",
+    "example": "There were over fifty applicants for the position.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 183,
+    "english": "application",
+    "bangla": "আবেদন / প্রয়োগ",
+    "example": "He submitted his job application yesterday.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 184,
+    "english": "apply",
+    "bangla": "আবেদন করা / প্রয়োগ করা",
+    "example": "You should apply for the scholarship.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 185,
+    "english": "appoint",
+    "bangla": "নিয়োগ করা",
+    "example": "The committee appointed a new chairman.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 186,
+    "english": "appointment",
+    "bangla": "সাক্ষাৎকারের সময় / নিয়োগ",
+    "example": "I have a dentist appointment at three.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 187,
+    "english": "appreciate",
+    "bangla": "প্রশংসা করা / কৃতজ্ঞ থাকা",
+    "example": "I really appreciate your kind help.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 188,
+    "english": "appreciation",
+    "bangla": "প্রশংসা / কৃতজ্ঞতা",
+    "example": "He expressed appreciation for their hard work.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 189,
+    "english": "approach",
+    "bangla": "উপগমন করা / দৃষ্টিভঙ্গি",
+    "example": "Winter is approaching fast this year.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 190,
+    "english": "appropriate",
+    "bangla": "উপযুক্ত / যথাযথ",
+    "example": "Wear appropriate clothing for the interview.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 191,
+    "english": "approval",
+    "bangla": "অনুমোদন / সম্মতি",
+    "example": "The project received final approval from the board.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 192,
+    "english": "approve",
+    "bangla": "অনুমোদন করা",
+    "example": "The principal approved our excursion plan.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 193,
+    "english": "approximate",
+    "bangla": "আনুমানিক",
+    "example": "The approximate cost of the trip is five hundred dollars.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 194,
+    "english": "approximately",
+    "bangla": "প্রায় / আনুমানিক",
+    "example": "The flight takes approximately three hours.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 195,
+    "english": "aptitude",
+    "bangla": "মেধা / বিশেষ দক্ষতা",
+    "example": "She showed an aptitude for learning languages.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 196,
+    "english": "arbitrary",
+    "bangla": "খেয়ালখুশি মতো / ইচ্ছামাফিক",
+    "example": "The decision was made on an arbitrary basis.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 197,
+    "english": "architect",
+    "bangla": "স্থপতি",
+    "example": "The architect designed a stunning skyscraper.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 198,
+    "english": "architecture",
+    "bangla": "স্থাপত্যশিল্প",
+    "example": "Rome is famous for its ancient architecture.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 199,
+    "english": "archive",
+    "bangla": "মহাফেজখানা / আর্কাইভ",
+    "example": "Old records are preserved in the national archive.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 200,
+    "english": "area",
+    "bangla": "এলাকা / ক্ষেত্র",
+    "example": "They live in a quiet residential area.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 201,
+    "english": "argue",
+    "bangla": "তর্ক করা / যুক্তি দেওয়া",
+    "example": "They always argue about minor things.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 202,
+    "english": "argument",
+    "bangla": "যুক্তি / তর্ক",
+    "example": "They had a heated argument about politics.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 203,
+    "english": "arise",
+    "bangla": "উৎপন্ন হওয়া / ঘটা",
+    "example": "Problems may arise if we do not plan properly.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 204,
+    "english": "aristocrat",
+    "bangla": "অভিজাত ব্যক্তি",
+    "example": "The mansion belonged to a wealthy aristocrat.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 205,
+    "english": "arithmetic",
+    "bangla": "পাটিগণিত",
+    "example": "Children learn basic arithmetic in primary school.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 206,
+    "english": "arm",
+    "bangla": "হাত / বাহু",
+    "example": "He broke his left arm playing football.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 207,
+    "english": "army",
+    "bangla": "সেনাবাহিনী",
+    "example": "He joined the army after finishing college.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 208,
+    "english": "around",
+    "bangla": "চারপাশে / প্রায়",
+    "example": "We walked around the town square.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 209,
+    "english": "arrange",
+    "bangla": "সাজানো / আয়োজন করা",
+    "example": "She arranged the flowers neatly in the vase.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 210,
+    "english": "arrangement",
+    "bangla": "ব্যবস্থা / সাজসজ্জা",
+    "example": "We made all the arrangements for the party.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 211,
+    "english": "array",
+    "bangla": "বিন্যাস / সারি",
+    "example": "The shop offers a wide array of products.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 212,
+    "english": "arrest",
+    "bangla": "গ্রেপ্তার করা",
+    "example": "The police arrived to arrest the thief.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 213,
+    "english": "arrival",
+    "bangla": "আগমন",
+    "example": "We awaited the arrival of the train.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 214,
+    "english": "arrive",
+    "bangla": "পৌঁছানো",
+    "example": "What time will the bus arrive?",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 215,
+    "english": "arrogant",
+    "bangla": "অহংকারী / উদ্ধত",
+    "example": "Nobody likes his arrogant behavior.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 216,
+    "english": "arrow",
+    "bangla": "তীর / দিকচিহ্ন",
+    "example": "Follow the red arrow to find the exit.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 217,
+    "english": "art",
+    "bangla": "শিল্প / শিল্পকলা",
+    "example": "She studies fine art at the university.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 218,
+    "english": "article",
+    "bangla": "প্রবন্ধ / নিবন্ধ / বস্তু",
+    "example": "I read an interesting article in the newspaper.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 219,
+    "english": "articulate",
+    "bangla": " স্পষ্টভাবে প্রকাশ করা",
+    "example": "He is articulate and expresses ideas clearly.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 220,
+    "english": "artifact",
+    "bangla": "প্রত্নবস্তু",
+    "example": "The museum displays ancient artifacts.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 221,
+    "english": "artificial",
+    "bangla": "কৃত্রিম",
+    "example": "The room was lit by artificial light.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 222,
+    "english": "artist",
+    "bangla": "শিল্পী",
+    "example": "The artist painted a beautiful landscape.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 223,
+    "english": "artistic",
+    "bangla": "শৈল্পিক",
+    "example": "She has great artistic talent.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 224,
+    "english": "as",
+    "bangla": "যেমন / হিসেবে",
+    "example": "He works as a Software Engineer.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 225,
+    "english": "ascend",
+    "bangla": "উপরে ওঠা / আরোহণ করা",
+    "example": "They began to ascend the mountain peak.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 226,
+    "english": "ash",
+    "bangla": "ছাই / ভস্ম",
+    "example": "Volcanic ash covered the nearby village.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 227,
+    "english": "ashamed",
+    "bangla": "লজ্জিত",
+    "example": "He felt ashamed of his rude behavior.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 228,
+    "english": "aside",
+    "bangla": "একপাশে",
+    "example": "She stepped aside to let the doctor pass.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 229,
+    "english": "ask",
+    "bangla": "জিজ্ঞাসা করা / চাওয়া",
+    "example": "Feel free to ask any question.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 230,
+    "english": "asleep",
+    "bangla": "ঘুমন্ত",
+    "example": "The baby fell asleep in her arms.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 231,
+    "english": "aspect",
+    "bangla": "দিক / দৃষ্টিভঙ্গি",
+    "example": "We must consider every aspect of the problem.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 232,
+    "english": "aspiration",
+    "bangla": "আকাঙ্ক্ষা / অভিপ্রায়",
+    "example": "She has high career aspirations.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 233,
+    "english": "aspire",
+    "bangla": "আকাঙ্ক্ষা করা / আশা করা",
+    "example": "He aspires to become a successful writer.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 234,
+    "english": "assault",
+    "bangla": "আক্রমণ করা",
+    "example": "The soldier was charged with assault.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 235,
+    "english": "assemble",
+    "bangla": "একত্রিত করা / জোড়া লাগানো",
+    "example": "The students assembled in the main hall.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 236,
+    "english": "assembly",
+    "bangla": "সভা / সমাবেশ",
+    "example": "The morning assembly starts at eight o'clock.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 237,
+    "english": "assert",
+    "bangla": "দাবি করা / জোরালোভাবে বলা",
+    "example": "He asserted his innocence in court.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 238,
+    "english": "assess",
+    "bangla": "মূল্যায়ন করা",
+    "example": "Teachers assess student progress regularly.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 239,
+    "english": "assessment",
+    "bangla": "মূল্যায়ন",
+    "example": "The teacher completed the annual assessment.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 240,
+    "english": "asset",
+    "bangla": "সম্পদ",
+    "example": "Her fluent English is a valuable asset.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 241,
+    "english": "assign",
+    "bangla": "বরাদ্দ করা / কাজ দেওয়া",
+    "example": "The teacher assigned a research project.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 242,
+    "english": "assignment",
+    "bangla": "নির্দিষ্ট কাজ / অ্যাসাইনমেন্ট",
+    "example": "I have to submit my assignment tomorrow.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 243,
+    "english": "assist",
+    "bangla": "সাহায্য করা / সহায়তা করা",
+    "example": "She assisted the doctor during surgery.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 244,
+    "english": "assistance",
+    "bangla": "সহায়তা / সাহায্য",
+    "example": "Do you need any further assistance?",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 245,
+    "english": "assistant",
+    "bangla": "সহকারী",
+    "example": "He works as a personal assistant.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 246,
+    "english": "associate",
+    "bangla": "যুক্ত করা / সহযোগী",
+    "example": "People associate summer with ice cream.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 247,
+    "english": "association",
+    "bangla": "সমিতি / সংঘ",
+    "example": "She joined the local teachers' association.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 248,
+    "english": "assume",
+    "bangla": "ধরে নেওয়া / অনুমান করা",
+    "example": "I assume you are coming to the party.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 249,
+    "english": "assumption",
+    "bangla": "অনুমান",
+    "example": "His argument was based on a false assumption.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 250,
+    "english": "assurance",
+    "bangla": "আশ্বাস / নিশ্চয়তা",
+    "example": "He gave us his assurance that he would help.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 251,
+    "english": "assure",
+    "bangla": "আশ্বাস দেওয়া",
+    "example": "I assure you that your secret is safe with me.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 252,
+    "english": "astonish",
+    "bangla": "বিস্মিত করা",
+    "example": "His incredible speed astonished the audience.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 253,
+    "english": "astronomy",
+    "bangla": "জ্যোতির্বিদ্যা",
+    "example": "She developed a strong interest in astronomy.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 254,
+    "english": "athlete",
+    "bangla": "ক্রীড়াবিদ",
+    "example": "The athlete won two gold medals.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 255,
+    "english": "athletic",
+    "bangla": "ক্রীড়াসংক্রান্ত / সবল",
+    "example": "He has a very athletic body.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 256,
+    "english": "atmosphere",
+    "bangla": "বায়ুমণ্ডল / পরিবেশ",
+    "example": "The atmosphere in the room was warm and friendly.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 257,
+    "english": "atom",
+    "bangla": "পরমাণু",
+    "example": "An atom is the basic unit of a chemical element.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 258,
+    "english": "attach",
+    "bangla": "সংযুক্ত করা",
+    "example": "Please attach your photograph to the form.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 259,
+    "english": "attachment",
+    "bangla": "সংযুক্তি",
+    "example": "I sent the document as an email attachment.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 260,
+    "english": "attack",
+    "bangla": "আক্রমণ করা",
+    "example": "The army launched an attack at dawn.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 261,
+    "english": "attain",
+    "bangla": "অর্জন করা / পৌঁছানো",
+    "example": "She worked hard to attain her educational goals.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 262,
+    "english": "attempt",
+    "bangla": "চেষ্টা করা / প্রচেষ্টা",
+    "example": "He passed the driving test on his first attempt.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 263,
+    "english": "attend",
+    "bangla": "উপস্থিত থাকা / যোগদান করা",
+    "example": "All students must attend the lecture.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 264,
+    "english": "attendance",
+    "bangla": "উপস্থিতি",
+    "example": "His class attendance record is excellent.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 265,
+    "english": "attention",
+    "bangla": "মনোযোগ",
+    "example": "Pay close attention to what the teacher says.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 266,
+    "english": "attitude",
+    "bangla": "মনোভাব / দৃষ্টিভঙ্গি",
+    "example": "A positive attitude helps in overcoming challenges.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 267,
+    "english": "attorney",
+    "bangla": "আইনজীবী",
+    "example": "He hired a defense attorney for the trial.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 268,
+    "english": "attract",
+    "bangla": "আকর্ষণ করা",
+    "example": "Bright flowers attract butterflies.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 269,
+    "english": "attraction",
+    "bangla": "আকর্ষণ",
+    "example": "The ancient castle is a popular tourist attraction.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 270,
+    "english": "attractive",
+    "bangla": "আকর্ষণীয়",
+    "example": "She wore a very attractive dress to the event.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 271,
+    "english": "attribute",
+    "bangla": "গুণাবলী / বৈশিষ্ট্য আরোপ করা",
+    "example": "Patience is an essential attribute of a leader.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 272,
+    "english": "auction",
+    "bangla": "নিলাম",
+    "example": "The vintage car was sold at an auction.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 273,
+    "english": "audience",
+    "bangla": "শ্রোতা / দর্শক",
+    "example": "The audience clapped loudly after the show.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 274,
+    "english": "audio",
+    "bangla": "শ্রাব্য / অডিও",
+    "example": "The audio quality of the recording was clear. ",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 275,
+    "english": "audit",
+    "bangla": "হিসাব নিরীক্ষা",
+    "example": "The company underwent an independent financial audit.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 276,
+    "english": "auditorium",
+    "bangla": "মিলনায়তন",
+    "example": "The ceremony was held in the university auditorium.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 277,
+    "english": "august",
+    "bangla": "আগস্ট মাস / মহিমান্বিত",
+    "example": "His birthday falls in August.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 278,
+    "english": "aunt",
+    "bangla": "খালা / ফুপু / চাচি",
+    "example": "My aunt brought delicious homemade sweets.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 279,
+    "english": "authentic",
+    "bangla": "প্রামাণিক / খাঁটি",
+    "example": "This restaurant serves authentic Italian pizza.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 280,
+    "english": "author",
+    "bangla": "লেখক",
+    "example": "He is the author of several best-selling novels.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 281,
+    "english": "authority",
+    "bangla": "কর্তৃপক্ষ / ক্ষমতা",
+    "example": "The government authority issued a public notice.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 282,
+    "english": "authorize",
+    "bangla": "অনুমোদন করা / ক্ষমতা প্রদান করা",
+    "example": "The manager authorized the expenditure.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 283,
+    "english": "automatic",
+    "bangla": "স্বয়ংক্রিয়",
+    "example": "The building has automatic sliding doors.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 284,
+    "english": "automatically",
+    "bangla": "স্বয়ংক্রিয়ভাবে",
+    "example": "The doors open automatically when you approach.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 285,
+    "english": "autonomy",
+    "bangla": "স্বায়ত্তশাসন",
+    "example": "The region was granted local autonomy.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 286,
+    "english": "autumn",
+    "bangla": "শরৎকাল",
+    "example": "The leaves turn red and yellow in autumn.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 287,
+    "english": "availability",
+    "bangla": "প্রাপ্যতা / সুলভতা",
+    "example": "Check the availability of tickets online.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 288,
+    "english": "available",
+    "bangla": "সহজলভ্য / প্রাপ্তিসাধ্য",
+    "example": "Fresh fruit is available at the market.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 289,
+    "english": "avalanche",
+    "bangla": "হিমবাহ / তুষারপাত",
+    "example": "The mountain path was blocked by an avalanche.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 290,
+    "english": "avenue",
+    "bangla": "অ্যাভিনিউ / প্রশস্ত পথ",
+    "example": "They walked down the tree-lined avenue.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 291,
+    "english": "average",
+    "bangla": "গড় / সাধারণ",
+    "example": "His average score was eighty percent.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 292,
+    "english": "avoid",
+    "bangla": "এড়িয়ে চলা / বর্জন করা",
+    "example": "Try to avoid eating junk food.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 293,
+    "english": "await",
+    "bangla": "অপেক্ষা করা",
+    "example": "We eagerly await your response.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 294,
+    "english": "awake",
+    "bangla": "জাগ্রত / জেগে থাকা",
+    "example": "I was still awake at midnight.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 295,
+    "english": "award",
+    "bangla": "পুরস্কার",
+    "example": "She won an award for her outstanding research.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 296,
+    "english": "aware",
+    "bangla": "সচেতন",
+    "example": "Are you aware of the new rules?",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 297,
+    "english": "awareness",
+    "bangla": "সচেতনতা",
+    "example": "The campaign raises public awareness about health.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 298,
+    "english": "away",
+    "bangla": "দূরে",
+    "example": "The beach is just two miles away.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 299,
+    "english": "awesome",
+    "bangla": "চমৎকার / অসাধারণ",
+    "example": "We had an awesome time at the concert.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 300,
+    "english": "awful",
+    "bangla": "ভয়ানক / খুবই খারাপ",
+    "example": "There was an awful smell in the kitchen.",
+    "learnLevel": "easy"
+  }
+]
