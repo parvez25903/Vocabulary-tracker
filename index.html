@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="bn" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ভোকাবুলারি ট্র্যাকার ও লার্নিং ড্যাশবোর্ড</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        brand: {
+                            50: '#f0fdf4',
+                            500: '#22c55e',
+                            600: '#16a34a',
+                            700: '#15803d',
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;500;600;700&display=swap');
+        body { font-family: 'Hind Siliguri', sans-serif; }
+    </style>
+</head>
+<body class="bg-gray-100 dark:bg-gray-900 text-gray-800 dark:text-gray-100 transition-colors duration-200 min-h-screen flex flex-col">
+
+    <header class="bg-white dark:bg-gray-800 shadow-md sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex justify-between items-center">
+            <div class="flex items-center space-x-3 space-x-reverse">
+                <i class="fa-solid fa-book-bookmark text-brand-600 text-2xl"></i>
+                <h1 class="text-xl sm:text-2xl font-bold bg-gradient-to-r from-brand-600 to-teal-500 bg-clip-text text-transparent">
+                    ভোকাবুলারি মাস্টার
+                </h1>
+            </div>
+            
+            <div class="flex items-center space-x-3 sm:space-x-4">
+             
+                
+                <button id="themeToggle" class="p-2 rounded-lg bg-gray-100 dark:bg-gray-700 hover:bg-gray-200 dark:hover:bg-gray-600 text-yellow-500 dark:text-yellow-400">
+                    <i class="fa-solid fa-moon dark:hidden"></i>
+                    <i class="fa-solid fa-sun hidden dark:inline-block"></i>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <nav class="bg-white dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700">
+        <div class="max-w-7xl mx-auto px-4 flex justify-around sm:justify-start sm:space-x-8 overflow-x-auto">
+            <button onclick="switchTab('dashboard')" id="tab-dashboard" class="tab-btn px-4 py-3 text-sm sm:text-base font-semibold border-b-2 border-brand-600 text-brand-600">
+                <i class="fa-solid fa-chart-line mr-1"></i> ড্যাশবোর্ড
+            </button>
+            <button onclick="switchTab('learn')" id="tab-learn" class="tab-btn px-4 py-3 text-sm sm:text-base font-semibold text-gray-500 dark:text-gray-400 hover:text-brand-600 border-b-2 border-transparent">
+                <i class="fa-solid fa-graduation-cap mr-1"></i> আজকের পাঠ
+            </button>
+            <button onclick="switchTab('quiz')" id="tab-quiz" class="tab-btn px-4 py-3 text-sm sm:text-base font-semibold text-gray-500 dark:text-gray-400 hover:text-brand-600 border-b-2 border-transparent">
+                <i class="fa-solid fa-clipboard-question mr-1"></i> কুইজ ও পরীক্ষা
+            </button>
+            <button onclick="switchTab('favorites')" id="tab-favorites" class="tab-btn px-4 py-3 text-sm sm:text-base font-semibold text-gray-500 dark:text-gray-400 hover:text-brand-600 border-b-2 border-transparent">
+                <i class="fa-solid fa-star mr-1"></i> প্রিয় শব্দ
+            </button>
+            
+        </div>
+    </nav>
+
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 flex-1 w-full">
+
+        <section id="sec-dashboard" class="space-y-6">
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+                <div class="bg-white dark:bg-gray-800 p-5 rounded-xl shadow-sm border border-gray-100 dark:border-gray-700">
+                    <div class="flex items-center justify-between">
+                        <div>
+                            <p class="text-sm text-gray-500 dark:text-gray-400">মোট শব্দভান্ডার</p>
+                            <h3 id="stat-total-words" class="text-2xl font-bold mt-1">0</h3>
+                        </div>
+                        <div class="p-3 bg-blue-100 dark:bg-blue-900/40 text-blue-600 dark:text-blue-400 rounded-lg">
+                            <i class="fa-solid fa-database text-xl"></i>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-white dark:bg-gray-800 p-5 rounded-xl shadow-sm border border-gray-100 dark:border-gray-700">
+                    <div class="flex items-center justify-between">
+                        <div>
+                            <p class="text-sm text-gray-500 dark:text-gray-400">শিক্ষা সম্পন্ন</p>
+                            <h3 id="stat-learned-words" class="text-2xl font-bold mt-1 text-brand-600">0</h3>
+                        </div>
+                        <div class="p-3 bg-green-100 dark:bg-green-900/40 text-brand-600 dark:text-brand-400 rounded-lg">
+                            <i class="fa-solid fa-circle-check text-xl"></i>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-white dark:bg-gray-800 p-5 rounded-xl shadow-sm border border-gray-100 dark:border-gray-700">
+                    <div class="flex items-center justify-between">
+                        <div>
+                            <p class="text-sm text-gray-500 dark:text-gray-400">আজকের দিন (Day)</p>
+                            <h3 id="stat-current-day" class="text-2xl font-bold mt-1 text-purple-600">1</h3>
+                        </div>
+                        <div class="p-3 bg-purple-100 dark:bg-purple-900/40 text-purple-600 dark:text-purple-400 rounded-lg">
+                            <i class="fa-solid fa-calendar-day text-xl"></i>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-white dark:bg-gray-800 p-5 rounded-xl shadow-sm border border-gray-100 dark:border-gray-700">
+                    <div class="flex items-center justify-between">
+                        <div>
+                            <p class="text-sm text-gray-500 dark:text-gray-400">আজকের লক্ষ্য</p>
+                            <h3 id="stat-today-target" class="text-2xl font-bold mt-1 text-amber-600">20</h3>
+                        </div>
+                        <div class="p-3 bg-amber-100 dark:bg-amber-900/40 text-amber-600 dark:text-amber-400 rounded-lg">
+                            <i class="fa-solid fa-bullseye text-xl"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="bg-white dark:bg-gray-800 p-6 rounded-xl shadow-sm border border-gray-100 dark:border-gray-700">
+                <h2 class="text-lg font-bold mb-3">সামগ্রিক অগ্রগতি</h2>
+                <div class="w-full bg-gray-200 dark:bg-gray-700 rounded-full h-4 overflow-hidden">
+                    <div id="overall-progress-bar" class="bg-brand-600 h-4 rounded-full transition-all duration-500" style="width: 0%"></div>
+                </div>
+                <p id="overall-progress-text" class="text-sm text-gray-500 dark:text-gray-400 mt-2 text-right">0% সম্পন্ন</p>
+            </div>
+
+            <div class="bg-white dark:bg-gray-800 p-6 rounded-xl shadow-sm border border-gray-100 dark:border-gray-700">
+                <h2 class="text-lg font-bold mb-4">ডেইলি লার্নিং প্ল্যান রুটম্যাপ</h2>
+                <div id="roadmap-container" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+                </div>
+            </div>
+        </section>
+
+        <section id="sec-learn" class="hidden space-y-6">
+            <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 bg-white dark:bg-gray-800 p-4 rounded-xl border border-gray-100 dark:border-gray-700">
+                <div>
+                    <h2 class="text-xl font-bold" id="learn-heading">Day 1 Task</h2>
+                    <p class="text-sm text-gray-500 dark:text-gray-400">নিয়মিত মুখস্থ করুন এবং মার্ক সম্পন্ন করুন</p>
+                </div>
+                <button onclick="finishTodayTask()" class="w-full sm:w-auto px-5 py-2.5 bg-brand-600 hover:bg-brand-700 text-white font-semibold rounded-lg shadow-sm transition">
+                    <i class="fa-solid fa-check-double mr-1"></i> আজকের পড়া সম্পন্ন করুন
+                </button>
+            </div>
+
+            <div id="words-container" class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            </div>
+        </section>
+
+        <section id="sec-quiz" class="hidden space-y-6">
+            <div class="bg-white dark:bg-gray-800 p-6 rounded-xl shadow-sm border border-gray-100 dark:border-gray-700">
+                <h2 class="text-xl font-bold mb-2">পরীক্ষা সেকশন (যতটি পড়া হয়েছে)</h2>
+                <p class="text-sm text-gray-500 dark:text-gray-400 mb-6">আপনার পড়া সম্পন্ন হওয়া ভোকাবুলারি থেকেই প্রশ্ন করা হবে।</p>
+                
+                <div class="flex flex-wrap gap-4 mb-6">
+                    <button onclick="startQuiz('mcq')" class="px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-semibold rounded-lg shadow">
+                        <i class="fa-solid fa-list-check mr-2"></i> MCQ পরীক্ষা
+                    </button>
+                    <button onclick="startQuiz('written')" class="px-6 py-3 bg-purple-600 hover:bg-purple-700 text-white font-semibold rounded-lg shadow">
+                        <i class="fa-solid fa-pen-to-square mr-2"></i> Written (Typing) পরীক্ষা
+                    </button>
+                </div>
+
+                <div id="quiz-area" class="hidden border-t border-gray-200 dark:border-gray-700 pt-6">
+                    <div id="quiz-box" class="space-y-6">
+                    </div>
+                    <div id="quiz-results" class="hidden mt-6 p-4 bg-green-50 dark:bg-green-900/30 text-green-800 dark:text-green-300 rounded-lg text-center font-bold">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="sec-favorites" class="hidden space-y-6">
+            <h2 class="text-xl font-bold">আপনার বুকমার্ক করা শব্দসমূহ</h2>
+            <div id="favorites-container" class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            </div>
+        </section>
+
+        <!-- JSON & Word Manage Section -->
+        <section id="sec-update-json" class="hidden space-y-6">
+            <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+                <!-- Single Word Add Form -->
+                <div class="lg:col-span-1 bg-white dark:bg-gray-800 p-6 rounded-xl shadow-sm border border-gray-100 dark:border-gray-700 space-y-4">
+                    <h2 class="text-lg font-bold flex items-center gap-2">
+                        <i class="fa-solid fa-plus-circle text-brand-600"></i> নতুন শব্দ যোগ করুন
+                    </h2>
+                    <form id="addWordForm" onsubmit="handleAddNewWord(event)" class="space-y-3">
+                        <div>
+                            <label class="block text-xs font-semibold mb-1">ইংরেজি শব্দ *</label>
+                            <input type="text" id="newEnglish" required class="w-full p-2.5 rounded-lg border border-gray-300 dark:border-gray-600 bg-gray-50 dark:bg-gray-900 text-sm focus:ring-2 focus:ring-brand-500 focus:outline-none" placeholder="e.g. Abundant">
+                        </div>
+                        <div>
+                            <label class="block text-xs font-semibold mb-1">বাংলা অর্থ *</label>
+                            <input type="text" id="newBangla" required class="w-full p-2.5 rounded-lg border border-gray-300 dark:border-gray-600 bg-gray-50 dark:bg-gray-900 text-sm focus:ring-2 focus:ring-brand-500 focus:outline-none" placeholder="e.g. প্রচুর / প্রাচুর্যময়">
+                        </div>
+                        <div>
+                            <label class="block text-xs font-semibold mb-1">উদাহরণ বাক্য</label>
+                            <input type="text" id="newExample" class="w-full p-2.5 rounded-lg border border-gray-300 dark:border-gray-600 bg-gray-50 dark:bg-gray-900 text-sm focus:ring-2 focus:ring-brand-500 focus:outline-none" placeholder="e.g. Water is abundant here.">
+                        </div>
+                        <div>
+                            <label class="block text-xs font-semibold mb-1">লেভেল</label>
+                            <select id="newLevel" class="w-full p-2.5 rounded-lg border border-gray-300 dark:border-gray-600 bg-gray-50 dark:bg-gray-900 text-sm focus:ring-2 focus:ring-brand-500 focus:outline-none">
+                                <option value="easy">Easy</option>
+                                <option value="medium">Medium</option>
+                                <option value="hard">Hard</option>
+                            </select>
+                        </div>
+                        <button type="submit" class="w-full py-2.5 bg-brand-600 hover:bg-brand-700 text-white font-semibold rounded-lg shadow-sm transition">
+                            <i class="fa-solid fa-plus mr-1"></i> যোগ করুন
+                        </button>
+                    </form>
+                </div>
+
+                <!-- JSON Mass Sync & Export -->
+                
+            </div>
+        </section>
+
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>
