@@ -2098,5 +2098,708 @@
     "bangla": "ভয়ানক / খুবই খারাপ",
     "example": "There was an awful smell in the kitchen.",
     "learnLevel": "easy"
+  },
+  
+  
+  {
+    "id": 301,
+    "english": "baby",
+    "bangla": "শিশু / বাচ্চা",
+    "example": "The baby is sleeping peacefully.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 302,
+    "english": "background",
+    "bangla": "পটভূমি / ব্যাকগ্রাউন্ড",
+    "example": "She has a strong background in computer science.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 303,
+    "english": "backward",
+    "bangla": "পশ্চাদমুখী / পেছনের দিকে",
+    "example": "He took a step backward in surprise.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 304,
+    "english": "bacteria",
+    "bangla": "জীবাণু / ব্যাকটেরিয়া",
+    "example": "Boiling water kills harmful bacteria.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 305,
+    "english": "baggage",
+    "bangla": "ল্যাগেজ / মালামাল",
+    "example": "Please keep your baggage with you at all times.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 306,
+    "english": "balance",
+    "bangla": "ভারসাম্য / বাকি টাকা",
+    "example": "Try to maintain a healthy work-life balance.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 307,
+    "english": "balcony",
+    "bangla": "বারান্দা",
+    "example": "She stood on the balcony watching the rain.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 308,
+    "english": "bargain",
+    "bangla": "দরদাম করা / সুবিধা জনক চুক্তি",
+    "example": "She negotiated a good bargain at the market.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 309,
+    "english": "barrier",
+    "bangla": "প্রতিবন্ধকতা / বাধা",
+    "example": "Lack of education is a major barrier to progress.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 310,
+    "english": "basement",
+    "bangla": "মাটির নিচের তলা / বেসমেন্ট",
+    "example": "They stored old furniture in the basement.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 311,
+    "english": "beautiful",
+    "bangla": "সুন্দর / মনোরম",
+    "example": "The flower garden looks extremely beautiful.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 312,
+    "english": "behavior",
+    "bangla": "আচরণ / ব্যবহার",
+    "example": "Her polite behavior impressed everyone.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 313,
+    "english": "beneficial",
+    "bangla": "উপকারী / কল্যাণকর",
+    "example": "Regular exercise is beneficial for health.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 314,
+    "english": "benefit",
+    "bangla": "সুবিধা / উপকার",
+    "example": "Meditation offers many mental health benefits.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 315,
+    "english": "betray",
+    "bangla": "বিশ্বাসঘাতকতা করা",
+    "example": "A true friend will never betray your trust.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 316,
+    "english": "bilingual",
+    "bangla": "দ্বিভাষী",
+    "example": "She is bilingual and speaks both Bangla and English.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 317,
+    "english": "biography",
+    "bangla": "জীবনী",
+    "example": "I read an inspiring biography of Nelson Mandela.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 318,
+    "english": "bizarre",
+    "bangla": "অদ্ভুত / বিচিত্র",
+    "example": "He had a bizarre dream last night.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 319,
+    "english": "blanket",
+    "bangla": "কম্বল",
+    "example": "He wrapped himself in a warm blanket.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 320,
+    "english": "blessing",
+    "bangla": "আশীর্বাদ",
+    "example": "Good health is a great blessing in life.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 321,
+    "english": "blossom",
+    "bangla": "ফুল ফোটা / প্রস্ফুটিত হওয়া",
+    "example": "Cherry blossoms look stunning in Japan.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 322,
+    "english": "boundary",
+    "bangla": "সীমানা / সীমানারেখা",
+    "example": "The river forms a natural boundary between two states.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 323,
+    "english": "bravery",
+    "bangla": "বীরত্ব / সাহস",
+    "example": "He received a medal for his bravery.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 324,
+    "english": "brilliant",
+    "bangla": "মেধাবী / চমৎকার",
+    "example": "She came up with a brilliant business idea.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 325,
+    "english": "broadcast",
+    "bangla": "সম্প্রচার করা",
+    "example": "Radio stations broadcast news nationwide.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 326,
+    "english": "brochure",
+    "bangla": "বিজ্ঞাপন পুস্তিকা / ব্রোশার",
+    "example": "Read the travel brochure for holiday packages.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 327,
+    "english": "burden",
+    "bangla": "বোঝা / দায়িত্ব",
+    "example": "Caring for elderly parents is a noble duty, not a burden.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 328,
+    "english": "bureaucracy",
+    "bangla": "আমলাতন্ত্র",
+    "example": "Red tape in bureaucracy slows down approvals.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 329,
+    "english": "cabin",
+    "bangla": "ছোট ঘর / ক্যাবিন",
+    "example": "They stayed in a cozy wooden cabin in the woods.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 330,
+    "english": "calculate",
+    "bangla": "গণনা করা / হিসাব করা",
+    "example": "Use a calculator to calculate the total cost.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 331,
+    "english": "campaign",
+    "bangla": "অভিযান / প্রচারণা",
+    "example": "The company launched an online marketing campaign.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 332,
+    "english": "candidate",
+    "bangla": "প্রার্থী",
+    "example": "Several candidates applied for the job position.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 333,
+    "english": "capability",
+    "bangla": "সামর্থ্য / দক্ষতা",
+    "example": "He has the capability to lead a big team.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 334,
+    "english": "capacity",
+    "bangla": "ধারনক্ষমতা / ক্ষমতা",
+    "example": "The stadium has a seating capacity of fifty thousand.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 335,
+    "english": "capital",
+    "bangla": "রাজধানী / মূলধন",
+    "example": "Dhaka is the capital city of Bangladesh.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 336,
+    "english": "capture",
+    "bangla": "বন্দী করা / ক্যাপচার করা",
+    "example": "The photographer captured a beautiful sunset.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 337,
+    "english": "career",
+    "bangla": "পেশা / কর্মজীবন",
+    "example": "She chose a career in software technology.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 338,
+    "english": "category",
+    "bangla": "শ্রেণী / বিভাগ",
+    "example": "Books are arranged according to their category.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 339,
+    "english": "celebrate",
+    "bangla": "উদযাপন করা",
+    "example": "We will celebrate his birthday tonight.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 340,
+    "english": "century",
+    "bangla": "শতাব্দী / ১০০ বছর",
+    "example": "This castle was built in the eighteenth century.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 341,
+    "english": "challenge",
+    "bangla": "চ্যালেঞ্জ / প্রতিযোগিতা",
+    "example": "Overcoming obstacles is a rewarding challenge.", "learnLevel": "medium"
+  },
+  {
+    "id": 342,
+    "english": "champion",
+    "bangla": "চ্যাম্পিয়ন / বিজয়ী",
+    "example": "He became the national chess champion.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 343,
+    "english": "chaos",
+    "bangla": "বিশৃঙ্খলা / বিশৃঙ্খলাপূর্ণ অবস্থা",
+    "example": "Traffic fell into chaos after the signal broke.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 344,
+    "english": "character",
+    "bangla": "চরিত্র / ব্যক্তিত্ব",
+    "example": "Honesty is an important part of human character.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 345,
+    "english": "charity",
+    "bangla": "দান / সেবামূলক সংস্থা",
+    "example": "They donated money to a local charity.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 346,
+    "english": "charming",
+    "bangla": "মনোরম / আকর্ষণীয়",
+    "example": "She has a charming personality.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 347,
+    "english": "citizen",
+    "bangla": "নাগরিক",
+    "example": "Every citizen should fulfill their civic duties.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 348,
+    "english": "climate",
+    "bangla": "জলবায়ু",
+    "example": "Climate change poses a threat to biodiversity.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 349,
+    "english": "collaborate",
+    "bangla": "যৌথভাবে কাজ করা / সহযোগিতা করা",
+    "example": "Two universities decided to collaborate on research.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 350,
+    "english": "collapse",
+    "bangla": "ভেঙে পড়া / ধসে যাওয়া",
+    "example": "The old building collapsed after the earthquake.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 351,
+    "english": "colleague",
+    "bangla": "সহকর্মী",
+    "example": "I had lunch with my colleagues today.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 352,
+    "english": "combination",
+    "bangla": "সংমিশ্রণ / সংযোগ",
+    "example": "Success requires a combination of talent and effort.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 353,
+    "english": "comfortable",
+    "bangla": "আরামদায়ক",
+    "example": "This sofa is very comfortable to sit on.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 354,
+    "english": "command",
+    "bangla": "আদেশ দেওয়া / নিয়ন্ত্রণ",
+    "example": "The officer gave a quick command to stop.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 355,
+    "english": "commence",
+    "bangla": "শুরু করা / আরম্ভ করা",
+    "example": "The ceremony will commence shortly.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 356,
+    "english": "commitment",
+    "bangla": "অঙ্গীকার / প্রতিশ্রুতি",
+    "example": "She showed great commitment to her work.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 357,
+    "english": "community",
+    "bangla": "সম্প্রদায় / সমাজ",
+    "example": "The community united to clean the park.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 358,
+    "english": "companion",
+    "bangla": "সঙ্গী / সহচর",
+    "example": "A dog is a faithful companion.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 359,
+    "english": "compelling",
+    "bangla": "মনোমুগ্ধকর / বাধ্যকারী",
+    "example": "He gave a compelling speech on education.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 360,
+    "english": "compensate",
+    "bangla": "ক্ষতিপূরণ দেওয়া",
+    "example": "The company compensated him for his losses.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 361,
+    "english": "competition",
+    "bangla": "প্রতিযোগিতা",
+    "example": "She won first place in the singing competition.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 362,
+    "english": "complaint",
+    "bangla": "অভিযোগ",
+    "example": "Customer complaints were resolved quickly.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 363,
+    "english": "complicated",
+    "bangla": "জটিল",
+    "example": "The instructions were too complicated to follow.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 364,
+    "english": "comply",
+    "bangla": "মেপে চলা / মান্য করা",
+    "example": "All employees must comply with safety regulations.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 365,
+    "english": "component",
+    "bangla": "উপাদান / অংশ",
+    "example": "Practice is a key component of learning skills.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 366,
+    "english": "comprehensive",
+    "bangla": "ব্যাপক / পূর্ণাঙ্গ",
+    "example": "The book offers a comprehensive guide to grammar.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 367,
+    "english": "compromise",
+    "bangla": "আপস করা / সমঝোতা",
+    "example": "They reached a compromise after negotiations.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 368,
+    "english": "conceal",
+    "bangla": "গোপন করা / লুকানো",
+    "example": "He tried to conceal his anxiety with a smile.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 369,
+    "english": "concentrate",
+    "bangla": "মনোযোগ দেওয়া",
+    "example": "Turn off the radio so I can concentrate on reading.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 370,
+    "english": "concept",
+    "bangla": "ধারণা",
+    "example": "The teacher explained the core mathematical concept.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 371,
+    "english": "conclusion",
+    "bangla": "উপসংহার / সিদ্ধান্ত",
+    "example": "In conclusion, hard work brings success.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 372,
+    "english": "concrete",
+    "bangla": "কংক্রিট / বাস্তববাদী",
+    "example": "Please provide concrete evidence for your claim.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 373,
+    "english": "condemn",
+    "bangla": "নিন্দা করা / তিরস্কার করা",
+    "example": "The nation condemned the act of violence.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 374,
+    "english": "conduct",
+    "bangla": "আচরণ / পরিচালনা করা",
+    "example": "Scientists will conduct a new experiment.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 375,
+    "english": "confidence",
+    "bangla": "আত্মবিশ্বাস",
+    "example": "Self-confidence is essential for personal growth.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 376,
+    "english": "confirm",
+    "bangla": "নিশ্চিত করা",
+    "example": "Please confirm your hotel reservation by email.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 377,
+    "english": "conflict",
+    "bangla": "দ্বন্দ্ব / সংঘাত",
+    "example": "Dialogue is the best way to resolve conflicts.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 378,
+    "english": "congratulate",
+    "bangla": "অভিনন্দন জানানো",
+    "example": "We congratulated her on her promotion.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 379,
+    "english": "connection",
+    "bangla": "সংযোগ / সম্পর্ক",
+    "example": "An internet connection is required for this app.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 380,
+    "english": "conscious",
+    "bangla": "সচেতন / জাগ্রত",
+    "example": "She was conscious of her responsibilities.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 381,
+    "english": "consequence",
+    "bangla": "ফলাফল / পরিণতি",
+    "example": "Every action has a natural consequence.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 382,
+    "english": "considerable",
+    "bangla": "উল্লেখযোগ্য / প্রচুর",
+    "example": "He spent a considerable amount of time preparing.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 383,
+    "english": "consistency",
+    "bangla": "ধারাবাহিকতা",
+    "example": "Consistency is key to mastering new skills.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 384,
+    "english": "conspicuous",
+    "bangla": "সুস্পষ্ট / নজরকাড়া",
+    "example": "His tall stature made him conspicuous in the crowd.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 385,
+    "english": "constant",
+    "bangla": "অবিরাম / ধ্রুবক",
+    "example": "Practice requires constant effort.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 386,
+    "english": "construct",
+    "bangla": "নির্মাণ করা",
+    "example": "Engineers plan to construct a highway.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 387,
+    "english": "consult",
+    "bangla": "পরামর্শ করা",
+    "example": "Consult a doctor if your fever persists.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 388,
+    "english": "consume",
+    "bangla": "উপভোগ করা / ভোগ করা",
+    "example": "Vehicles consume a lot of fuel.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 389,
+    "english": "contagious",
+    "bangla": "ছোঁয়াচে / সংক্রামক",
+    "example": "Flu is a highly contagious illness.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 390,
+    "english": "contemporary",
+    "bangla": "সমসাময়িক",
+    "example": "She studies contemporary art and literature.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 391,
+    "english": "contribute",
+    "bangla": "অবদান রাখা",
+    "example": "Many volunteers contributed to the project.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 392,
+    "english": "convenient",
+    "bangla": "সুবিধাজনক",
+    "example": "Online shopping is very convenient.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 393,
+    "english": "convince",
+    "bangla": "বোঝানো / আশ্বস্ত করা",
+    "example": "She managed to convince him to join.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 394,
+    "english": "cooperate",
+    "bangla": "সহযোগিতা করা",
+    "example": "Team members must cooperate smoothly.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 395,
+    "english": "courage",
+    "bangla": "সাহস",
+    "example": "It takes courage to stand up for justice.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 396,
+    "english": "crucial",
+    "bangla": "অত্যন্ত গুরুত্বপূর্ণ / সংকটময়",
+    "example": "Timing plays a crucial role in success.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 397,
+    "english": "curious",
+    "bangla": "কৌতূহলী",
+    "example": "Children are naturally curious about science.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 398,
+    "english": "damage",
+    "bangla": "ক্ষতিসাধন করা",
+    "example": "Storms caused heavy damage to houses.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 399,
+    "english": "dazzling",
+    "bangla": "চোখধাঁধানো / উজ্জ্বল",
+    "example": "She wore a dazzling diamond necklace.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 400,
+    "english": "debate",
+    "bangla": "বিতর্ক",
+    "example": "The candidates took part in a lively debate.",
+    "learnLevel": "medium"
   }
+
+
 ]
