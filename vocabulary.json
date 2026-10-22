@@ -7002,6 +7002,3507 @@
     "example": "Farmers use pesticides to protect crops from pests.",
     "learnLevel": "medium"
   }
+,
+    {
+    "id": 1001,
+    "english": "petition",
+    "bangla": "আবেদন / স্মারকলিপি",
+    "example": "Citizens signed a petition to protect the park.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1002,
+    "english": "petrol",
+    "bangla": "পেট্রোল / জ্বালানি তেল",
+    "example": "The car ran out of petrol on the highway.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1003,
+    "english": "phase",
+    "bangla": "পর্যায় / ধাপ",
+    "example": "The project is currently in its final phase.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1004,
+    "english": "phenomenon",
+    "bangla": "ঘটনাবলি / রূপ পরিঘটনা",
+    "example": "Aurora is a stunning natural phenomenon.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1005,
+    "english": "philosophy",
+    "bangla": "দর্শন / দর্শনশাস্ত্র",
+    "example": "He studies ancient Greek philosophy.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1006,
+    "english": "photograph",
+    "bangla": "ছবি / ফটোগ্রাফ",
+    "example": "She clicked a beautiful photograph of the sunset.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1007,
+    "english": "phrase",
+    "bangla": "বাক্যাংশ",
+    "example": "Learn useful phrases to speak English fluently.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1008,
+    "english": "physical",
+    "bangla": "শারীরিক / ভৌত",
+    "example": "Regular physical activity keeps you healthy.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1009,
+    "english": "physician",
+    "bangla": "চিকিৎসক",
+    "example": "The physician advised him to take proper rest.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1010,
+    "english": "pioneer",
+    "bangla": "অগ্রদূত / পথপ্রদর্শক",
+    "example": "He was a pioneer in computer technology.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1011,
+    "english": "pipeline",
+    "bangla": "পাইপলাইন",
+    "example": "Gas is supplied through a vast underground pipeline.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1012,
+    "english": "pit",
+    "bangla": "গর্ত / খাদ",
+    "example": "The workers dug a deep pit for the foundation.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1013,
+    "english": "pitch",
+    "bangla": "পিচ / খেলার মাঠ / সুরের উচ্চতা",
+    "example": "The cricket pitch looked dry and hard.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1014,
+    "english": "plague",
+    "bangla": "মহামারী / প্লেগ",
+    "example": "History records many outbreaks of plague.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1015,
+    "english": "plain",
+    "bangla": "সমতল ভূমি / সাধারণ",
+    "example": "She wore a plain white cotton shirt.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1016,
+    "english": "planet",
+    "bangla": "গ্রহ",
+    "example": "Earth is the only planet known to support life.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1017,
+    "english": "plant",
+    "bangla": "উদ্ভিদ / চারাগাছ / কারখানা",
+    "example": "Water the plants in the garden regularly.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1018,
+    "english": "plastic",
+    "bangla": "প্লাস্টিক",
+    "example": "We should reduce the use of single-use plastic.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1019,
+    "english": "plate",
+    "bangla": "থালা / প্লেট",
+    "example": "She served food on a ceramic plate.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1020,
+    "english": "platform",
+    "bangla": "মঞ্চ / প্ল্যাটফর্ম",
+    "example": "The train arrived at platform number three.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1021,
+    "english": "pleasant",
+    "bangla": "মনোরম / আনন্দদায়ক",
+    "example": "We had a pleasant chat in the evening.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1022,
+    "english": "pleasure",
+    "bangla": "আনন্দ / সুখ",
+    "example": "It is a great pleasure to meet you.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1023,
+    "english": "pledge",
+    "bangla": "অঙ্গীকার / প্রতিজ্ঞা",
+    "example": "The leaders made a pledge to reduce carbon emissions.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1024,
+    "english": "plentiful",
+    "bangla": "প্রচুর / পর্যাপ্ত",
+    "example": "Rainfall ensures a plentiful harvest this year.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1025,
+    "english": "plot",
+    "bangla": "গল্পের মূলসূত্র / চক্রান্ত / জমির টুকরো",
+    "example": "The movie has an unpredictable plot.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1026,
+    "english": "plunge",
+    "bangla": "হঠাৎ লাফিয়ে পড়া / অবনমন",
+    "example": "Temperatures will plunge tonight.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1027,
+    "english": "pocket",
+    "bangla": "পকেট",
+    "example": "He kept his wallet in his jacket pocket.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1028,
+    "english": "poem",
+    "bangla": "কবিতা",
+    "example": "She recited a lovely poem by Tagore.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1029,
+    "english": "poet",
+    "bangla": "কবি",
+    "example": "Nazrul is known as the rebel poet.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1030,
+    "english": "poetry",
+    "bangla": "কবিতাসমগ্র / কাব্য",
+    "example": "He has a deep passion for romantic poetry.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1031,
+    "english": "point",
+    "bangla": "বিন্দু / পয়েন্ট / নির্দেশ করা",
+    "example": "What is the main point of your argument?",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1032,
+    "english": "poison",
+    "bangla": "বিষ",
+    "example": "Keep chemicals away as they contain poison.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1033,
+    "english": "pole",
+    "bangla": "মেরু / খুঁটি",
+    "example": "Bears live in the cold polar region.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1034,
+    "english": "policy",
+    "bangla": "নীতি / কর্মপদ্ধতি",
+    "example": "The company has a strict attendance policy.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1035,
+    "english": "politics",
+    "bangla": "রাজনীতি",
+    "example": "He is actively involved in university politics.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1036,
+    "english": "pollute",
+    "bangla": "দূষিত করা",
+    "example": "Factories pollute the air with toxic smoke.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1037,
+    "english": "pomp",
+    "bangla": "আড়ম্বর / ঠমক",
+    "example": "The festival was celebrated with great pomp.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1038,
+    "english": "pool",
+    "bangla": "জলাশয় / সাঁতারের পুল",
+    "example": "Children love swimming in the hotel pool.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1039,
+    "english": "poor",
+    "bangla": "গরিব / দরিদ্র",
+    "example": "They help poor families in the village.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1040,
+    "english": "popular",
+    "bangla": "জনপ্রিয়",
+    "example": "Football is a popular sport worldwide.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1041,
+    "english": "population",
+    "bangla": "জনসংখ্যা",
+    "example": "The city has a population of over five million.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1042,
+    "english": "pore",
+    "bangla": "ত্বকের রোমকূপ / ছিদ্র",
+    "example": "Sweat comes out through skin pores.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1043,
+    "english": "port",
+    "bangla": "বন্দর",
+    "example": "Cargo ships arrived at the busy port.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1044,
+    "english": "portion",
+    "bangla": "অংশ / ভাগ",
+    "example": "Eat a healthy portion of vegetables daily.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1045,
+    "english": "portrait",
+    "bangla": "প্রতিকৃতি / অবয়ব চিত্র",
+    "example": "The gallery displayed an old royal portrait.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1046,
+    "english": "pose",
+    "bangla": "অবস্থান নেওয়া / ঝুঁকি সৃষ্টি করা",
+    "example": "Climate change poses a serious threat to earth.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1047,
+    "english": "position",
+    "bangla": "অবস্থান / পদ",
+    "example": "She secured a managerial position in the firm.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1048,
+    "english": "positive",
+    "bangla": "ইতিবাচক / নিশ্চিত",
+    "example": "Maintain a positive attitude towards life.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1049,
+    "english": "possess",
+    "bangla": "অধিকার করা / থাকা",
+    "example": "Wisdom is a quality wise people possess.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1050,
+    "english": "possibility",
+    "bangla": "সম্ভাবনা",
+    "example": "There is a strong possibility of rain today.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1051,
+    "english": "post",
+    "bangla": "ডাক / পদ / পোস্ট করা",
+    "example": "She uploaded a new blog post online.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1052,
+    "english": "postpone",
+    "bangla": "স্থগিত করা",
+    "example": "Rain forced them to postpone the match.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1053,
+    "english": "potential",
+    "bangla": "সম্ভাবনাময় / ক্ষমতা",
+    "example": "He has the potential to become a great writer.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1054,
+    "english": "poverty",
+    "bangla": "দারিদ্র্য",
+    "example": "Education helps communities escape poverty.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1055,
+    "english": "powder",
+    "bangla": "গুঁড়ো",
+    "example": "Baking powder is used to make cakes fluffy.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1056,
+    "english": "powerful",
+    "bangla": "শক্তিশালী",
+    "example": "The engine has a powerful performance.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1057,
+    "english": "practical",
+    "bangla": "ব্যবহারিক / বাস্তবসম্মত",
+    "example": "She gave me practical advice on budgeting.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1058,
+    "english": "practice",
+    "bangla": "অনুশীলন",
+    "example": "Daily practice improves your skills.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1059,
+    "english": "praise",
+    "bangla": "প্রশংসা করা",
+    "example": "The teacher praised her for neat handwriting.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1060,
+    "english": "precede",
+    "bangla": "আগে ঘটা / পূর্বে আসা",
+    "example": "Dark clouds precede a heavy thunderstorm.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1061,
+    "english": "precious",
+    "bangla": "মূল্যবান",
+    "example": "Time is more precious than money.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1062,
+    "english": "precise",
+    "bangla": "সঠিক / নিখুঁত",
+    "example": "Give me the precise details of the project.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1063,
+    "english": "predict",
+    "bangla": "ভবিষ্যদ্বাণী করা",
+    "example": "It is hard to predict future trends.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1064,
+    "english": "predominant",
+    "bangla": "প্রধান / প্রতাপশালী",
+    "example": "Agriculture is the predominant occupation here.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1065,
+    "english": "prefer",
+    "bangla": "পছন্দ করা",
+    "example": "I prefer tea over coffee in the morning.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1066,
+    "english": "prejudice",
+    "bangla": "পূর্বসংস্কার / পক্ষপাতিত্ব",
+    "example": "Society must overcome racial prejudice.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1067,
+    "english": "preliminary",
+    "bangla": "প্রাথমিক",
+    "example": "These are preliminary results of the test.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1068,
+    "english": "premier",
+    "bangla": "প্রধান / প্রধামন্ত্রী / প্রিমিয়ার",
+    "example": "The film had its world premier last night.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1069,
+    "english": "preparation",
+    "bangla": "প্রস্তুতি",
+    "example": "Good preparation leads to exam success.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1070,
+    "english": "presence",
+    "bangla": "উপস্থিতি",
+    "example": "Her presence made everyone feel relaxed.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1071,
+    "english": "preserve",
+    "bangla": "সংরক্ষণ করা",
+    "example": "We must preserve historical monuments.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1072,
+    "english": "preside",
+    "bangla": "সভাপতিত্ব করা",
+    "example": "The mayor will preside over the meeting.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1073,
+    "english": "press",
+    "bangla": "চাপ দেওয়া / সংবাদমাধ্যম",
+    "example": "Press the red button to start the engine.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1074,
+    "english": "pressure",
+    "bangla": "চাপ",
+    "example": "Tyre pressure must be checked regularly.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1075,
+    "english": "prestige",
+    "bangla": "প্রতিপত্তি / মর্যাদা",
+    "example": "The university has high academic prestige.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1076,
+    "english": "presumably",
+    "bangla": "সম্ভবত / অনুমিতভাবে",
+    "example": "He is busy, presumably working on his thesis.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1077,
+    "english": "prevent",
+    "bangla": "প্রতিরোধ করা / বাধা দেওয়া",
+    "example": "Wash hands frequently to prevent illness.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1078,
+    "english": "previous",
+    "bangla": "পূর্ববর্তী",
+    "example": "Review your previous lessons before starting new ones.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1079,
+    "english": "price",
+    "bangla": "মূল্য / দাম",
+    "example": "The price of fuel went up this week.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1080,
+    "english": "primary",
+    "bangla": "প্রাথমিক / প্রধান",
+    "example": "Health and safety are our primary concerns.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1081,
+    "english": "prime",
+    "bangla": "প্রধান / উৎকৃষ্ট",
+    "example": "Location is the prime factor in buying property.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1082,
+    "english": "primitive",
+    "bangla": "আদিম / প্রাচীন",
+    "example": "Early humans used primitive stone tools.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1083,
+    "english": "principal",
+    "bangla": "প্রধান / অধ্যক্ষ",
+    "example": "The school principal delivered a morning speech.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1084,
+    "english": "principle",
+    "bangla": "নীতি / মূলনীতি",
+    "example": "He never compromises his moral principles.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1085,
+    "english": "print",
+    "bangla": "ছাপা / মুদ্রণ করা",
+    "example": "Please print two copies of this document.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1086,
+    "english": "prior",
+    "bangla": "পূর্ববর্তী / আগের",
+    "example": "No prior experience is required for this job.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1087,
+    "english": "priority",
+    "bangla": "অগ্রাধিকার",
+    "example": "Finishing homework is my top priority tonight.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1088,
+    "english": "privacy",
+    "bangla": "গোপনীয়তা",
+    "example": "Everyone has the right to personal privacy.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1089,
+    "english": "private",
+    "bangla": "বেসরকারি / ব্যক্তিগত",
+    "example": "This is a private property; entry is restricted.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1090,
+    "english": "privilege",
+    "bangla": "বিশেষ সুবিধা / অধিকার",
+    "example": "Education is a privilege, not a luxury.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1091,
+    "english": "probable",
+    "bangla": "সম্ভাব্য",
+    "example": "Snow is probable later this afternoon.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1092,
+    "english": "probe",
+    "bangla": "তদন্ত করা / অনুসন্ধান",
+    "example": "Police launched a probe into the financial scam.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1093,
+    "english": "problem",
+    "bangla": "সমস্যা",
+    "example": "Let us work together to solve this problem.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1094,
+    "english": "procedure",
+    "bangla": "কার্যপদ্ধতি / নিয়ম",
+    "example": "Follow standard security procedures carefully.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1095,
+    "english": "proceed",
+    "bangla": "এগিয়ে যাওয়া / চালমান থাকা",
+    "example": "You may proceed with your presentation.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1096,
+    "english": "process",
+    "bangla": "প্রক্রিয়া",
+    "example": "Learning a new language is a gradual process.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1097,
+    "english": "proclaim",
+    "bangla": "ঘোষণা করা",
+    "example": "The country was proclaimed an independent republic.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1098,
+    "english": "produce",
+    "bangla": "উৎপাদন করা",
+    "example": "Farms produce organic vegetables for markets.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1099,
+    "english": "product",
+    "bangla": "পণ্য / উৎপাদিত বস্তু",
+    "example": "This is our highest-quality electronics product.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1100,
+    "english": "profession",
+    "bangla": "পেশা",
+    "example": "Nursing is a compassionate and respected profession.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1101,
+    "english": "profile",
+    "bangla": "প্রোফাইল / সংক্ষিপ্ত পরিচিতি",
+    "example": "Update your social media profile with a photo.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1102,
+    "english": "profit",
+    "bangla": "লাভ / মুনাফা",
+    "example": "The small business made a good profit this month.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1103,
+    "english": "profound",
+    "bangla": "গভীর / প্রগাঢ়",
+    "example": "Her words had a profound impact on me.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1104,
+    "english": "program",
+    "bangla": "প্রোগ্রাম / কর্মসূচি",
+    "example": "The university offers a computer science program.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1105,
+    "english": "progress",
+    "bangla": "অগ্রগতি",
+    "example": "The student showed steady progress in mathematics.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1106,
+    "english": "prohibit",
+    "bangla": "নিষিদ্ধ করা",
+    "example": "Smoking is strictly prohibited inside the building.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1107,
+    "english": "project",
+    "bangla": "প্রকল্প",
+    "example": "Students finished their science project on time.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1108,
+    "english": "prominent",
+    "bangla": "বিশিষ্ট / প্রখ্যাত",
+    "example": "A prominent scientist gave a lecture today.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1109,
+    "english": "promise",
+    "bangla": "প্রতিশ্রুতি দেওয়া",
+    "example": "Always keep a promise once you make it.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1110,
+    "english": "promote",
+    "bangla": "প্রচার করা / পদোন্নতি দেওয়া",
+    "example": "Ads help promote local business products.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1111,
+    "english": "prompt",
+    "bangla": "তাত্ক্ষণিক / দ্রুত",
+    "example": "Thank you for your prompt reply.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1112,
+    "english": "pronounce",
+    "bangla": "উচ্চারণ করা",
+    "example": "How do you pronounce this English word?",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1113,
+    "english": "proof",
+    "bangla": "প্রমাণ",
+    "example": "Police need solid proof to solve the case.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1114,
+    "english": "proper",
+    "bangla": "উপযুক্ত / সঠিক",
+    "example": "Wear proper clothing for the formal event.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1115,
+    "english": "property",
+    "bangla": "সম্পত্তি",
+    "example": "They bought a new residential property.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1116,
+    "english": "proportion",
+    "bangla": "অনুপাত / হার",
+    "example": "A large proportion of students passed the test.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1117,
+    "english": "proposal",
+    "bangla": "প্রস্তাব",
+    "example": "The board of directors approved the business proposal.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1118,
+    "english": "propose",
+    "bangla": "প্রস্তাব করা",
+    "example": "I propose we start the meeting early.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1119,
+    "english": "prospect",
+    "bangla": "সম্ভাবনা / ভবিষ্যৎ সুযোগ",
+    "example": "Job prospects for graduates look bright.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1120,
+    "english": "protect",
+    "bangla": "রক্ষা করা",
+    "example": "Wear sunglasses to protect your eyes from sun glare.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1121,
+    "english": "protein",
+    "bangla": "প্রোটিন",
+    "example": "Fish and eggs are rich sources of protein.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1122,
+    "english": "protest",
+    "bangla": "প্রতিবাদ",
+    "example": "Workers staged a peaceful protest for higher wages.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1123,
+    "english": "proud",
+    "bangla": "গর্বিত",
+    "example": "Parents feel proud of their children's achievements.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1124,
+    "english": "prove",
+    "bangla": "প্রমাণ করা",
+    "example": "Hard work will prove your true capability.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1125,
+    "english": "provide",
+    "bangla": "সরবরাহ করা",
+    "example": "The hotel provides free breakfast for guests.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1126,
+    "english": "province",
+    "bangla": "প্রদেশ",
+    "example": "He lives in a scenic northern province.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1127,
+    "english": "provision",
+    "bangla": "বিধান / সংস্থান",
+    "example": "The contract includes a provision for medical insurance.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1128,
+    "english": "provoke",
+    "bangla": "উসকে দেওয়া / রাগানো",
+    "example": "Do not say things that provoke anger.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1129,
+    "english": "psychology",
+    "bangla": "মনোবিজ্ঞান",
+    "example": "She is reading a book on human psychology.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1130,
+    "english": "publication",
+    "bangla": "প্রকাশনা",
+    "example": "The research paper awaits final publication.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1131,
+    "english": "publicity",
+    "bangla": "প্রচার / পাবলিসিটি",
+    "example": "The event generated massive media publicity.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1132,
+    "english": "publish",
+    "bangla": "প্রকাশ করা",
+    "example": "The author plans to publish a new novel soon.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1133,
+    "english": "pudding",
+    "bangla": "পুডিং / মিষ্টি খাবার",
+    "example": "We had chocolate pudding for dessert.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1134,
+    "english": "pulse",
+    "bangla": "নাড়ির স্পন্দন / ডাল",
+    "example": "The nurse checked the patient's pulse rate.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1135,
+    "english": "pump",
+    "bangla": "পাম্প / জল তোলার যন্ত্র",
+    "example": "Farmers use water pumps for field irrigation.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1136,
+    "english": "punish",
+    "bangla": "শাস্তি দেওয়া",
+    "example": "Teachers should guide students, not just punish them.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1137,
+    "english": "purchase",
+    "bangla": "ক্রয় করা / কেনাকাটা",
+    "example": "Keep your receipt after every purchase.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1138,
+    "english": "pure",
+    "bangla": "বিশুদ্ধ / খাঁটি",
+    "example": "Drink pure water to stay healthy.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1139,
+    "english": "pursue",
+    "bangla": "অনুসরণ করা / লক্ষ্য অর্জনের চেষ্টা করা",
+    "example": "Pursue your dreams with dedication.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1140,
+    "english": "puzzle",
+    "bangla": "ধাঁধা / বিভ্রান্তি",
+    "example": "Solving crossword puzzles sharpens the brain.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1141,
+    "english": "qualification",
+    "bangla": "যোগ্যতা",
+    "example": "Degree qualification is required for the post.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1142,
+    "english": "qualified",
+    "bangla": "যোগ্য / দক্ষ",
+    "example": "She is a fully qualified software engineer.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1143,
+    "english": "qualify",
+    "bangla": "যোগ্যতা অর্জন করা",
+    "example": "He worked hard to qualify for the final round.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1144,
+    "english": "quality",
+    "bangla": "গুণগত মান",
+    "example": "Never compromise on food quality.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1145,
+    "english": "quantity",
+    "bangla": "পরিমাণ",
+    "example": "Focus on quality rather than quantity.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1146,
+    "english": "quarantine",
+    "bangla": "সংগনিরোধ / কোয়ারেন্টাইন",
+    "example": "The sick traveler was placed in quarantine.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1147,
+    "english": "quarrel",
+    "bangla": "ঝগড়া করা",
+    "example": "Friends should avoid unnecessary quarrels.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1148,
+    "english": "quarter",
+    "bangla": "চতুর্থাংশ / এক চতুর্থাংশ সময়",
+    "example": "We met each other a quarter of an hour ago.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1149,
+    "english": "queen",
+    "bangla": "রানি",
+    "example": "The queen addressed the nation on television.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1150,
+    "english": "queer",
+    "bangla": "অদ্ভুত / সমকামী",
+    "example": "Something queer happened at the old house.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1151,
+    "english": "query",
+    "bangla": "প্রশ্ন / জিজ্ঞাসা",
+    "example": "Customer service handled my query quickly.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1152,
+    "english": "quest",
+    "bangla": "অ্যান্বেষণ / সন্ধান",
+    "example": "He traveled the world in quest of knowledge.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1153,
+    "english": "question",
+    "bangla": "প্রশ্ন",
+    "example": "Raise your hand if you have a question.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1154,
+    "english": "queue",
+    "bangla": "সারি / লাইন",
+    "example": "Please stand in the queue to buy tickets.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1155,
+    "english": "quick",
+    "bangla": "দ্রুত",
+    "example": "She took a quick glance at her watch.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1156,
+    "english": "quiet",
+    "bangla": "শান্ত / নীরব",
+    "example": "Library reading rooms must remain quiet.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1157,
+    "english": "quit",
+    "bangla": "ছেড়ে দেওয়া / ত্যাগ করা",
+    "example": "Never quit learning new skills.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1158,
+    "english": "quite",
+    "bangla": "বেশ / পুরোপুরি",
+    "example": "The test was quite easy for everyone.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1159,
+    "english": "quotation",
+    "bangla": "উদ্ধৃতি / কোটেশন",
+    "example": "He started his speech with a famous quotation.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1160,
+    "english": "quote",
+    "bangla": "উদ্ধৃত করা",
+    "example": "Can you quote a line from Shakespeare?",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1161,
+    "english": "rabbit",
+    "bangla": "খরগোশ",
+    "example": "Rabbits love eating fresh carrots and grass.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1162,
+    "english": "racial",
+    "bangla": "জাতিগত",
+    "example": "Laws protect people from racial discrimination.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1163,
+    "english": "radar",
+    "bangla": "রেডার",
+    "example": "Airports use radar to track aircraft movements.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1164,
+    "english": "radiant",
+    "bangla": "উজ্জ্বল / দ্যুতিময়",
+    "example": "She looked radiant in her wedding dress.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1165,
+    "english": "radical",
+    "bangla": "মৌলিক / উগ্র",
+    "example": "The company made radical changes in management.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1166,
+    "english": "radio",
+    "bangla": "রেডিও",
+    "example": "We listened to morning news on the radio.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1167,
+    "english": "radius",
+    "bangla": "ব্যাসার্ধ",
+    "example": "Calculate the area using the circle radius.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1168,
+    "english": "ragged",
+    "bangla": "ছেঁড়া-ফাটা / অমসৃণ",
+    "example": "The beggar wore ragged clothes.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1169,
+    "english": "railway",
+    "bangla": "রেলপথ",
+    "example": "Railway lines connect cities across the country.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1170,
+    "english": "rain",
+    "bangla": "বৃষ্টি",
+    "example": "Heavy rain flooded the city streets.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1171,
+    "english": "raise",
+    "bangla": "উত্তোলন করা / বাড়ানো",
+    "example": "Employees asked the boss for a salary raise.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1172,
+    "english": "random",
+    "bangla": "যদৃচ্ছ / এলোমেলো",
+    "example": "Winners were chosen through a random draw.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1173,
+    "english": "range",
+    "bangla": "পরিসর / ব্যাপ্তি",
+    "example": "Prices range from ten dollars to fifty dollars.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1174,
+    "english": "rank",
+    "bangla": "পদমর্যাদা / র‍্যাংক",
+    "example": "She secured the top rank in board exams.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1175,
+    "english": "rapid",
+    "bangla": "দ্রুতগামী",
+    "example": "Technology is experiencing rapid growth.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1176,
+    "english": "rare",
+    "bangla": "দুর্লভ",
+    "example": "We spotted a rare species of wild bird.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1177,
+    "english": "rash",
+    "bangla": "অবিকীক্ষ্য / ফুসকুড়ি",
+    "example": "Avoid making rash decisions under anger.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1178,
+    "english": "rate",
+    "bangla": "হার / রেট",
+    "example": "Interest rates on savings accounts increased.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1179,
+    "english": "rational",
+    "bangla": "যৌক্তিক",
+    "example": "Try to make rational choices in life.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1180,
+    "english": "raw",
+    "bangla": "কাঁচা / অপ্রক্রিয়াজাত",
+    "example": "Raw vegetables contain essential vitamins.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1181,
+    "english": "reach",
+    "bangla": "পৌঁছানো",
+    "example": "We will reach our destination by evening.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1182,
+    "english": "react",
+    "bangla": "প্রতিক্রিয়া দেখানো",
+    "example": "How did he react to the surprising news?",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1183,
+    "english": "read",
+    "bangla": "পড়া",
+    "example": "Reading books expands your knowledge.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1184,
+    "english": "ready",
+    "bangla": "প্রস্তুত",
+    "example": "Are you ready for the presentation?",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1185,
+    "english": "real",
+    "bangla": "বাস্তব / আসল",
+    "example": "Is this diamond necklace real or fake?",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1186,
+    "english": "reality",
+    "bangla": "বাস্তবতা",
+    "example": "Dreams can turn into reality with hard work.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1187,
+    "english": "realize",
+    "bangla": "উপলব্ধি করা / বুঝতে পারা",
+    "example": "She began to realize her true potential.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1188,
+    "english": "realm",
+    "bangla": "রাজ্য / ক্ষেত্র",
+    "example": "He is a leading figure in the realm of science.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1189,
+    "english": "reason",
+    "bangla": "কারণ / যুক্তি",
+    "example": "Give me a valid reason for your absence.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1190,
+    "english": "reasonable",
+    "bangla": "যৌক্তিক / যুক্তিসঙ্গত",
+    "example": "The store offers reasonable prices for clothes.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1191,
+    "english": "rebel",
+    "bangla": "বিদ্রোহী",
+    "example": "The rebel forces fought for freedom.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1192,
+    "english": "recall",
+    "bangla": "স্মরণ করা / মনে করা",
+    "example": "I cannot recall where I kept my keys.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1193,
+    "english": "receipt",
+    "bangla": "রসিদ",
+    "example": "Always collect your purchase receipt.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1194,
+    "english": "receive",
+    "bangla": "গ্রহণ করা / পাওয়া",
+    "example": "She received a birthday gift from her friend.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1195,
+    "english": "recent",
+    "bangla": "সাম্প্রতিক",
+    "example": "Have you read any recent news articles?",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1196,
+    "english": "reception",
+    "bangla": "সংবর্ধনা / অভ্যর্থনা",
+    "example": "Guests arrived at the wedding reception.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1197,
+    "english": "recipe",
+    "bangla": "রান্নার প্রণালী / রেসিপি",
+    "example": "She shared a delicious chicken soup recipe.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1198,
+    "english": "reckless",
+    "bangla": "বেপরোয়া",
+    "example": "Reckless driving causes fatal accidents.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1199,
+    "english": "recognition",
+    "bangla": "স্বীকৃতি",
+    "example": "He gained international recognition for his research.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1200,
+    "english": "recommend",
+    "bangla": "সুপারিশ করা",
+    "example": "Can you recommend a good book to read?",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1201,
+    "english": "reconcile",
+    "bangla": "আপস করা / মিলিয়ে দেখা",
+    "example": "They managed to reconcile after a long dispute.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1202,
+    "english": "record",
+    "bangla": "রেকর্ড / নথি",
+    "example": "The athlete broke the world sprint record.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1203,
+    "english": "recover",
+    "bangla": "সুস্থ হয়ে ওঠা / পুনরুদ্ধার করা",
+    "example": "He took a week to recover from the flu.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1204,
+    "english": "recreation",
+    "bangla": "বিনোদন",
+    "example": "Sports are a great form of outdoor recreation.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1205,
+    "english": "recruit",
+    "bangla": "নিয়োগ করা / নতুন সদস্য",
+    "example": "The company plans to recruit new software developers.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1206,
+    "english": "recycle",
+    "bangla": "পুনর্ব্যবহারের উপযোগী করা",
+    "example": "Always recycle plastic bottles and paper.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1207,
+    "english": "reduce",
+    "bangla": "কমানো / হ্রাস করা",
+    "example": "Turn off lights to reduce electricity bills.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1208,
+    "english": "redundant",
+    "bangla": "অপ্রয়োজনীয় / অতিরিক্ত",
+    "example": "Remove redundant words to make sentences clear.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1209,
+    "english": "referee",
+    "bangla": "রেফারি / বিচারক",
+    "example": "The referee blew the whistle to end the match.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1210,
+    "english": "reference",
+    "bangla": "তথ্যসূত্র / রেফারেন্স",
+    "example": "Include proper book references in your essay.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1211,
+    "english": "refine",
+    "bangla": "পরিশোধন করা / উন্নত করা",
+    "example": "She needs to refine her writing style.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1212,
+    "english": "reflect",
+    "bangla": "প্রতিফলিত করা / চিন্তা করা",
+    "example": "Still water can reflect the clear blue sky.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1213,
+    "english": "reform",
+    "bangla": "সংস্কার করা",
+    "example": "The government proposed educational reforms.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1214,
+    "english": "refresh",
+    "bangla": "তাজা করা / রিফ্রেশ করা",
+    "example": "A cold drink will refresh you instantly.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1215,
+    "english": "refuge",
+    "bangla": "আশ্রয়",
+    "example": "Animals sought refuge from the heavy storm.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1216,
+    "english": "refund",
+    "bangla": "টাকা ফেরত দেওয়া",
+    "example": "The store offered a full refund for the broken item.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1217,
+    "english": "refuse",
+    "bangla": "অস্বীকার করা",
+    "example": "He refused to accept the unfair offer.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1218,
+    "english": "regard",
+    "bangla": "বিবেচনা করা / সম্মান",
+    "example": "I hold high regard for my teachers.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1219,
+    "english": "regime",
+    "bangla": "শাসনব্যবস্থা",
+    "example": "The political regime underwent major changes.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1220,
+    "english": "region",
+    "bangla": "অঞ্চল / এলাকা",
+    "example": "This region is famous for tea gardens.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1221,
+    "english": "register",
+    "bangla": "নিবন্ধন করা / রেজিস্টার",
+    "example": "Students must register for the course online.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1222,
+    "english": "regret",
+    "bangla": "অনুশোচনা করা / দুঃখ প্রকাশ করা",
+    "example": "Do not do things you might later regret.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1223,
+    "english": "regular",
+    "bangla": "নিয়মিত",
+    "example": "Regular exercise improves overall health.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1224,
+    "english": "regulate",
+    "bangla": "নিয়ন্ত্রণ করা",
+    "example": "Laws regulate traffic movement on roads.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1225,
+    "english": "reinforce",
+    "bangla": "শক্তিশালী করা / বলীয়ান করা",
+    "example": "Use examples to reinforce your arguments.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1226,
+    "english": "reject",
+    "bangla": "প্রত্যাখ্যান করা",
+    "example": "The manager decided to reject the poor proposal.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1227,
+    "english": "relate",
+    "bangla": "সম্পর্কযুক্ত হওয়া",
+    "example": "Can you relate this story to real life?",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1228,
+    "english": "relation",
+    "bangla": "সম্পর্ক",
+    "example": "Countries maintain peaceful trade relations.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1229,
+    "english": "relative",
+    "bangla": "আত্মীয় / আপেক্ষিক",
+    "example": "All my relatives gathered for the holiday.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1230,
+    "english": "relax",
+    "bangla": "আরাম করা / শিথিল হওয়া",
+    "example": "Listen to soft music to relax your mind.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1231,
+    "english": "release",
+    "bangla": "মুক্ত করা / প্রকাশ করা",
+    "example": "The band will release a new music album.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1232,
+    "english": "relevant",
+    "bangla": "প্রাসঙ্গিক",
+    "example": "Provide relevant details in your application.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1233,
+    "english": "reliable",
+    "bangla": "নির্ভরযোগ্য",
+    "example": "She is a reliable employee who never misses deadlines.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1234,
+    "english": "relief",
+    "bangla": "স্বস্তি / ত্রান",
+    "example": "It was a great relief to hear the good news.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1235,
+    "english": "religion",
+    "bangla": "ধর্ম",
+    "example": "Respect every person's religion and beliefs.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1236,
+    "english": "reluctant",
+    "bangla": "অনিচ্ছুক",
+    "example": "He was reluctant to leave his comfortable home.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1237,
+    "english": "rely",
+    "bangla": "নির্ভর করা",
+    "example": "You can always rely on a true friend.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1238,
+    "english": "remain",
+    "bangla": "থাকা / অবশিষ্ট থাকা",
+    "example": "Please remain calm during an emergency.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1239,
+    "english": "remark",
+    "bangla": "মন্তব্য করা",
+    "example": "She made a positive remark about my work.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1240,
+    "english": "remedy",
+    "bangla": "প্রতিকার / ওষুধ",
+    "example": "Honey and lemon is a great home remedy for cough.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1241,
+    "english": "remember",
+    "bangla": "মনে রাখা",
+    "example": "Remember to lock the door before leaving.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1242,
+    "english": "remind",
+    "bangla": "মনে করিয়ে দেওয়া",
+    "example": "Please remind me about the meeting tomorrow.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1243,
+    "english": "remote",
+    "bangla": "দূরবর্তী / রিমোট",
+    "example": "They live in a remote mountain village.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1244,
+    "english": "remove",
+    "bangla": "দূর করা / সরিয়ে ফেলা",
+    "example": "Remove unnecessary files from your computer.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1245,
+    "english": "render",
+    "bangla": "প্রদান করা / রূপান্তর করা",
+    "example": "Volunteers render help to disaster victims.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1246,
+    "english": "renew",
+    "bangla": "নবায়ন করা",
+    "example": "I need to renew my passport this month.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1247,
+    "english": "rent",
+    "bangla": "ভাড়া",
+    "example": "They pay monthly rent for their apartment.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1248,
+    "english": "repair",
+    "bangla": "মেরামত করা",
+    "example": "He knows how to repair broken bicycles.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1249,
+    "english": "repeat",
+    "bangla": "পুনরাবৃত্তি করা",
+    "example": "Could you please repeat that sentence?",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1250,
+    "english": "replace",
+    "bangla": "প্রতিস্থাপন করা",
+    "example": "We need to replace the old bulb with a new one.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1251,
+    "english": "reply",
+    "bangla": "উত্তর দেওয়া",
+    "example": "She sent a quick reply to my email.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1252,
+    "english": "report",
+    "bangla": "প্রতিবেদন / রিপোর্ট",
+    "example": "Students must submit their project report.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1253,
+    "english": "represent",
+    "bangla": "প্রতিনিধিত্ব করা",
+    "example": "She was chosen to represent her school in debate.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1254,
+    "english": "reproduce",
+    "bangla": "পুনরুৎপাদন করা",
+    "example": "Plants reproduce through seeds and spores.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1255,
+    "english": "republic",
+    "bangla": "প্রজাতন্ত্র",
+    "example": "Bangladesh is a democratic republic.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1256,
+    "english": "reputation",
+    "bangla": "খ্যাতি",
+    "example": "The company has a good reputation for honesty.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1257,
+    "english": "request",
+    "bangla": "অনুরোধ",
+    "example": "We kindly request your presence at the event.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1258,
+    "english": "require",
+    "bangla": "প্রয়োজন হওয়া",
+    "example": "Plants require sunlight and water to grow.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1259,
+    "english": "rescue",
+    "bangla": "উদ্ধার করা",
+    "example": "Firefighters came to rescue the trapped cat.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1260,
+    "english": "resemble",
+    "bangla": "সদৃশ হওয়া / মিল থাকা",
+    "example": "She tends to resemble her mother in character.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1261,
+    "english": "reservation",
+    "bangla": "সংরক্ষণ / বুকিং",
+    "example": "I made a hotel room reservation online.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1262,
+    "english": "reserve",
+    "bangla": "সংরক্ষণ করে রাখা",
+    "example": "Please reserve a table for four people.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1263,
+    "english": "resident",
+    "bangla": "বাসিন্দা",
+    "example": "Local residents protested against road noise.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1264,
+    "english": "resign",
+    "bangla": "পদত্যাগ করা",
+    "example": "He decided to resign from his job.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1265,
+    "english": "resist",
+    "bangla": "প্রতিরোধ করা",
+    "example": "It is hard to resist eating delicious sweets.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1266,
+    "english": "resolution",
+    "bangla": "সংকল্প / সমাধান",
+    "example": "Her New Year resolution is to read more books.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1267,
+    "english": "resolve",
+    "bangla": "সমাধান করা",
+    "example": "They managed to resolve the family dispute.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1268,
+    "english": "resort",
+    "bangla": "রিজর্ট / অবকাশ কেন্দ্র",
+    "example": "We spent our vacation at a beach resort.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1269,
+    "english": "resource",
+    "bangla": "সম্পদ",
+    "example": "Water is a precious natural resource.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1270,
+    "english": "respect",
+    "bangla": "সম্মান করা",
+    "example": "We must respect elderly people.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1271,
+    "english": "respond",
+    "bangla": "উত্তর দেওয়া / প্রতিক্রিয়া দেখানো",
+    "example": "Please respond to my email by tomorrow.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1272,
+    "english": "response",
+    "bangla": "প্রতিক্রিয়া / উত্তর",
+    "example": "I am waiting for a positive response.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1273,
+    "english": "responsible",
+    "bangla": "দায়িত্বশীল",
+    "example": "Parents are responsible for child care.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1274,
+    "english": "rest",
+    "bangla": "বিশ্রাম নেওয়া",
+    "example": "Take some rest after working hard.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1275,
+    "english": "restaurant",
+    "bangla": "রেস্তোরাঁ",
+    "example": "We had dinner at a nice Italian restaurant.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1276,
+    "english": "restore",
+    "bangla": "পুনরুদ্ধার করা / ফিরিয়ে আনা",
+    "example": "Workers are trying to restore the ancient temple.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1277,
+    "english": "restrict",
+    "bangla": "সীমাবদ্ধ করা",
+    "example": "Signs restrict entry into the private zone.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1278,
+    "english": "result",
+    "bangla": "ফলাফল",
+    "example": "Hard work always brings a good result.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1279,
+    "english": "retail",
+    "bangla": "খুচরা বিক্রি",
+    "example": "The brand opened a new retail clothing shop.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1280,
+    "english": "retain",
+    "bangla": "ধরে রাখা",
+    "example": "Good books help you retain useful knowledge.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1281,
+    "english": "retire",
+    "bangla": "অবসর নেওয়া",
+    "example": "He plans to retire from service next year.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1282,
+    "english": "retreat",
+    "bangla": "পিছু হটা / পশ্চাদপসরণ",
+    "example": "The army was forced to retreat.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1283,
+    "english": "return",
+    "bangla": "ফিরে আসা / ফেরত দেওয়া",
+    "example": "She will return from holiday next week.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1284,
+    "english": "reveal",
+    "bangla": "প্রকাশ করা / ফাঁস করা",
+    "example": "He refused to reveal the secret plan.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1285,
+    "english": "revenue",
+    "bangla": "রাজস্ব / আয়",
+    "example": "Tax revenue helps fund public schools.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1286,
+    "english": "reverse",
+    "bangla": "উল্টো দিক / বিপরীত",
+    "example": "Put the car in reverse gear to back up.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1287,
+    "english": "review",
+    "bangla": "পর্যালোচনা করা",
+    "example": "Review your notes before the test.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1288,
+    "english": "revive",
+    "bangla": "পুনরুজ্জীবিত করা",
+    "example": "Rain helped revive the dry garden plants.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1289,
+    "english": "revolve",
+    "bangla": "ঘূর্ণন করা / ঘোরা",
+    "example": "The Earth revolves around the Sun.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1290,
+    "english": "reward",
+    "bangla": "পুরস্কার",
+    "example": "She received a cash reward for honesty.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1291,
+    "english": "rhythm",
+    "bangla": "ছন্দ",
+    "example": "Dance to the lively rhythm of music.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1292,
+    "english": "ribbon",
+    "bangla": "ফিতা",
+    "example": "She tied her hair with a red ribbon.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1293,
+    "english": "rice",
+    "bangla": "ভাত / চাল",
+    "example": "Rice is a staple food in Asian countries.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1294,
+    "english": "rich",
+    "bangla": "ধনী",
+    "example": "He uses his wealth to help poor people.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1295,
+    "english": "ridiculous",
+    "bangla": "হাস্যকর",
+    "example": "Wearing winter boots in summer sounds ridiculous.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1296,
+    "english": "rifle",
+    "bangla": "রাইফেল / বন্দুক",
+    "example": "Guards stood at the gate holding rifles.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1297,
+    "english": "right",
+    "bangla": "ডান দিক / অধিকার / সঠিক",
+    "example": "Turn right at the traffic intersection.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1298,
+    "english": "rigid",
+    "bangla": "অনমনীয় / কঠোর",
+    "example": "The company has rigid safety guidelines.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1299,
+    "english": "riot",
+    "bangla": "দাঙ্গা",
+    "example": "Police controlled the street riot quickly.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1300,
+    "english": "ripe",
+    "bangla": "পাকা",
+    "example": "Mangoes taste sweet when they are fully ripe.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1301,
+    "english": "risk",
+    "bangla": "ঝুঁকি",
+    "example": "Investing in stocks carries some financial risk.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1302,
+    "english": "rival",
+    "bangla": "প্রতিদ্বন্দ্বী",
+    "example": "The two sports teams are fierce rivals.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1303,
+    "english": "river",
+    "bangla": "নদী",
+    "example": "A boat sailed down the calm river.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1304,
+    "english": "road",
+    "bangla": "সড়ক / রাস্তা",
+    "example": "Cars travel fast along the highway road.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1305,
+    "english": "roast",
+    "bangla": "পোড়ানো / রোস্ট করা",
+    "example": "We love eating roast chicken for dinner.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1306,
+    "english": "rob",
+    "bangla": "দখল করা / চুরি করা",
+    "example": "Thieves tried to rob the local bank.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1307,
+    "english": "robot",
+    "bangla": "রোবট",
+    "example": "Factory robots assemble cars with precision.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1308,
+    "english": "robust",
+    "bangla": "শক্তিশালী / বলিষ্ঠ",
+    "example": "He has a robust health and fitness level.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1309,
+    "english": "rock",
+    "bangla": "পাথর / শিলা",
+    "example": "Waves crashed against the sharp coastal rocks.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1310,
+    "english": "rocket",
+    "bangla": "রকেট",
+    "example": "Scientists launched a space rocket into orbit.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1311,
+    "english": "rod",
+    "bangla": "দণ্ড / লোহার রড",
+    "example": "Builders used steel rods to strengthen concrete.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1312,
+    "english": "role",
+    "bangla": "ভূমিকা",
+    "example": "Teachers play a vital role in shaping students.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1313,
+    "english": "roll",
+    "bangla": "গড়াতে থাকা / রোল করা",
+    "example": "The ball began to roll down the hill.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1314,
+    "english": "romance",
+    "bangla": "রোমান্স / প্রেম",
+    "example": "She enjoys reading classical romance novels.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1315,
+    "english": "roof",
+    "bangla": "ছাদ",
+    "example": "Heavy snow piled up on the cabin roof.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1316,
+    "english": "room",
+    "bangla": "ঘর / কক্ষ",
+    "example": "Keep your bedroom clean and tidy.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1317,
+    "english": "root",
+    "bangla": "মূল / শেকড়",
+    "example": "Trees have deep roots in the soil.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1318,
+    "english": "rope",
+    "bangla": "দড়ি",
+    "example": "He tied the bundle with a strong rope.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1319,
+    "english": "rose",
+    "bangla": "গোলাপ ফুল",
+    "example": "A red rose symbolizes love and beauty.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1320,
+    "english": "rot",
+    "bangla": "পচে যাওয়া",
+    "example": "Wet wood will rot over time.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1321,
+    "english": "rotate",
+    "bangla": "ঘূর্ণন করা",
+    "example": "Fans rotate to circulate cool air.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1322,
+    "english": "rough",
+    "bangla": "অমসৃণ / অমসৃণ পথ",
+    "example": "The hiking trail was rocky and rough.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1323,
+    "english": "round",
+    "bangla": "গোল / বৃত্তাকার",
+    "example": "The football is perfectly round in shape.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1324,
+    "english": "route",
+    "bangla": "রুট / যাতায়াতের পথ",
+    "example": "We took a scenic mountain driving route.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1325,
+    "english": "routine",
+    "bangla": "দৈনন্দিন রুটিন",
+    "example": "A morning walk is part of his daily routine.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1326,
+    "english": "row",
+    "bangla": "সারি / নৌকা বাইচ",
+    "example": "Students sat in a neat row in class.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1327,
+    "english": "royal",
+    "bangla": "রাজকীয়",
+    "example": "The queen lives in a grand royal palace.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1328,
+    "english": "rub",
+    "bangla": "ঘষা",
+    "example": "Rub your hands together to keep them warm.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1329,
+    "english": "rubber",
+    "bangla": "রাবার",
+    "example": "Tyres are manufactured from durable rubber.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1330,
+    "english": "ruin",
+    "bangla": "ধ্বংস করা",
+    "example": "Heavy rain can ruin outdoor events.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1331,
+    "english": "rule",
+    "bangla": "নিয়ম / শাসন করা",
+    "example": "Everyone must follow library rules.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1332,
+    "english": "ruler",
+    "bangla": "শাসক / স্কেল",
+    "example": "Use a plastic ruler to draw straight lines.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1333,
+    "english": "rumor",
+    "bangla": "গুজব",
+    "example": "Do not believe every unverified rumor.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1334,
+    "english": "rural",
+    "bangla": "গ্রামীণ",
+    "example": "Rural life is quiet and close to nature.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1335,
+    "english": "rush",
+    "bangla": "তাড়াহুড়ো করা",
+    "example": "There is no need to rush; take your time.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1336,
+    "english": "rust",
+    "bangla": "মরিচা",
+    "example": "Iron tools will rust if left in the rain.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1337,
+    "english": "sacred",
+    "bangla": "পবিত্র",
+    "example": "Temples are sacred places of worship.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1338,
+    "english": "sacrifice",
+    "bangla": "উৎসর্গ / ত্যাগ",
+    "example": "Soldiers make a great sacrifice for the nation.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1339,
+    "english": "sad",
+    "bangla": "দুঃখিত",
+    "example": "She felt sad after hearing the bad news.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1340,
+    "english": "safe",
+    "bangla": "নিরাপদ",
+    "example": "Wear seatbelts to stay safe while driving.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1341,
+    "english": "safety",
+    "bangla": "নিরাপত্তা",
+    "example": "Workplace safety is our top priority.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1342,
+    "english": "sail",
+    "bangla": "নৌকায় যাত্রা করা / পাল",
+    "example": "Fishermen set sail early in the morning.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1343,
+    "english": "salad",
+    "bangla": "সালাদ",
+    "example": "She prepared a fresh vegetable salad.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1344,
+    "english": "salary",
+    "bangla": "বেতন",
+    "example": "Employees receive their monthly salary on the first.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1345,
+    "english": "sale",
+    "bangla": "বিক্রি / ছাড়",
+    "example": "The winter clearance sale offers great discounts.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1346,
+    "english": "salt",
+    "bangla": "লবণ",
+    "example": "Add a pinch of salt to improve taste.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1347,
+    "english": "salute",
+    "bangla": "সালাম জানানো / অভিবাদন",
+    "example": "Soldiers salute the national flag proudly.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1348,
+    "english": "sample",
+    "bangla": "নমুনা",
+    "example": "She tasted a food sample at the store.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1349,
+    "english": "sand",
+    "bangla": "বালি",
+    "example": "Children played building castles in the sand.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1350,
+    "english": "satellite",
+    "bangla": "উপগ্রহ / স্যাটেলাইট",
+    "example": "Communication satellites orbit around the Earth.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1351,
+    "english": "satisfaction",
+    "bangla": "সন্তুষ্টি",
+    "example": "Completing a difficult task brings deep satisfaction.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1352,
+    "english": "satisfy",
+    "bangla": "সন্তুষ্ট করা",
+    "example": "The meal was enough to satisfy my hunger.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1353,
+    "english": "sauce",
+    "bangla": "সস",
+    "example": "Tomato sauce goes well with french fries.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1354,
+    "english": "save",
+    "bangla": "রক্ষা করা / জমানো",
+    "example": "Try to save money for rainy days.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1355,
+    "english": "saving",
+    "bangla": "সঞ্চয়",
+    "example": "Bank savings help secure future financial needs.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1356,
+    "english": "scale",
+    "bangla": "স্কেল / মাপমাত্রা",
+    "example": "Earthquake magnitude is measured on the Richter scale.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1357,
+    "english": "scan",
+    "bangla": "স্ক্যান করা",
+    "example": "Scan the QR code to check menu details.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1358,
+    "english": "scandal",
+    "bangla": "কেলেঙ্কারী",
+    "example": "The political scandal made front-page news.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1359,
+    "english": "scarce",
+    "bangla": "অপ্রতুল / দুষ্প্রাপ্য",
+    "example": "Clean drinking water is scarce in dry regions.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1360,
+    "english": "scare",
+    "bangla": "ভয় দেখানো",
+    "example": "Loud thunder can scare small children.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1361,
+    "english": "scatter",
+    "bangla": "ছড়িয়ে ছিটিয়ে দেওয়া",
+    "example": "Wind began to scatter fallen autumn leaves.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1362,
+    "english": "scene",
+    "bangla": "দৃশ্য",
+    "example": "The sunset over the ocean was a lovely scene.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1363,
+    "english": "schedule",
+    "bangla": "সময়সূচি",
+    "example": "Check the exam schedule before preparing.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1364,
+    "english": "scheme",
+    "bangla": "পরিকল্পনা / স্কিম",
+    "example": "The government launched a housing loan scheme.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1365,
+    "english": "scholar",
+    "bangla": "বিদ্বান ব্যক্তি / গবেষক",
+    "example": "She is a renowned history scholar.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1366,
+    "english": "school",
+    "bangla": "বিদ্যালয়",
+    "example": "Children walk to school every morning.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1367,
+    "english": "science",
+    "bangla": "বিজ্ঞান",
+    "example": "Science explains how the natural world works.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1368,
+    "english": "scissors",
+    "bangla": "কাঁচি",
+    "example": "Use scissors to cut colored craft paper.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1369,
+    "english": "score",
+    "bangla": "স্কোর / পয়েন্ট",
+    "example": "What is the final match score?",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1370,
+    "english": "scratch",
+    "bangla": "আঁচড় কাটা",
+    "example": "The cat left a small scratch on my hand.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1371,
+    "english": "screen",
+    "bangla": "পর্দা / স্ক্রিন",
+    "example": "Clean your mobile phone screen gently.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1372,
+    "english": "script",
+    "bangla": "লিপিকলা / নাটকের স্ক্রিপ্ট",
+    "example": "Actors memorized the movie script for shooting.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1373,
+    "english": "sculpture",
+    "bangla": "ভাস্কর্য",
+    "example": "The museum displays ancient stone sculptures.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1374,
+    "english": "sea",
+    "bangla": "সমুদ্র",
+    "example": "Huge ships sail across the deep sea.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1375,
+    "english": "search",
+    "bangla": "খোঁজা / অনুসন্ধান",
+    "example": "She conducted an online search for recipes.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1376,
+    "english": "season",
+    "bangla": "ঋতু",
+    "example": "Spring is my favorite pleasant season.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1377,
+    "english": "seat",
+    "bangla": "বসার আসন",
+    "example": "Please fasten your seat belt before takeoff.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1378,
+    "english": "second",
+    "bangla": "দ্বিতীয় / সেকেন্ড",
+    "example": "He finished second in the running race.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1379,
+    "english": "secret",
+    "bangla": "গোপন",
+    "example": "Can you keep this information a secret?",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1380,
+    "english": "secretary",
+    "bangla": "সচিব",
+    "example": "The manager dictated letters to his secretary.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1381,
+    "english": "section",
+    "bangla": "বিভাগ",
+    "example": "Read the sports section of the newspaper.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1382,
+    "english": "secure",
+    "bangla": "নিরাপদ করা / সুরক্ষিত",
+    "example": "Use strong passwords to keep accounts secure.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1383,
+    "english": "security",
+    "bangla": "নিরাপত্তা",
+    "example": "Airport security checks bags thoroughly.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1384,
+    "english": "seed",
+    "bangla": "বীজ",
+    "example": "Plant a seed in fertile soil to grow a tree.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1385,
+    "english": "seek",
+    "bangla": "অনুসন্ধান করা / খোঁজা",
+    "example": "Always seek advice from experienced elders.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1386,
+    "english": "seem",
+    "bangla": "মনে হওয়া",
+    "example": "Things are not always as they seem.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1387,
+    "english": "segment",
+    "bangla": "খণ্ড / অংশ",
+    "example": "Divide the orange into smaller segments.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1388,
+    "english": "seize",
+    "bangla": "দখল করা / জব্দ করা",
+    "example": "Police managed to seize illegal goods.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1389,
+    "english": "seldom",
+    "bangla": "দাচিৎ / কদাচিৎ",
+    "example": "He seldom misses his morning exercise.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1390,
+    "english": "select",
+    "bangla": "নির্বাচন করা",
+    "example": "Select the best answer for each question.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1391,
+    "english": "self",
+    "bangla": "নিজ / সয়ং",
+    "example": "Self-discipline is the root of success.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1392,
+    "english": "sell",
+    "bangla": "বিক্রি করা",
+    "example": "They plan to sell organic honey online.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1393,
+    "english": "seminar",
+    "bangla": "সেমিনার / শিক্ষামূলক আলোচনা",
+    "example": "She attended a seminar on digital marketing.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1394,
+    "english": "senate",
+    "bangla": "সিনেট / উচ্চকক্ষ",
+    "example": "The senate passed the new tax bill.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1395,
+    "english": "send",
+    "bangla": "পাঠানো",
+    "example": "Please send me the report via email.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1396,
+    "english": "senior",
+    "bangla": "জ্যেষ্ঠ / সিনিয়র",
+    "example": "He is a senior software engineer.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1397,
+    "english": "sense",
+    "bangla": "ইন্দ্রিয় / বোধ",
+    "example": "Humans have five basic physical senses.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1398,
+    "english": "sensible",
+    "bangla": "বুদ্ধিদীপ্ত / বিচক্ষণ",
+    "example": "Wearing a jacket in cold weather is sensible.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1399,
+    "english": "sentence",
+    "bangla": "বাক্য",
+    "example": "Make a meaningful sentence with this word.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1400,
+    "english": "sentiment",
+    "bangla": "অনুভূতি / আবেগ",
+    "example": "The old photo holds strong family sentiment.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1401,
+    "english": "separate",
+    "bangla": "আলাদা করা / পৃথক",
+    "example": "Keep white clothes separate from colored ones.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1402,
+    "english": "sequence",
+    "bangla": "ক্রম / ধারাবাহিকতা",
+    "example": "Arrange the events in correct chronological sequence.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1403,
+    "english": "series",
+    "bangla": "সিরিজ / ধারাবাহিক অনুষ্ঠান",
+    "example": "She loves watching nature documentary series.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1404,
+    "english": "serious",
+    "bangla": "গুরুত্বপূর্ণ / গুরুতর",
+    "example": "Pay attention; this is a serious matter.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1405,
+    "english": "servant",
+    "bangla": "চাকর / ভৃত্য",
+    "example": "The loyal servant worked for years.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1406,
+    "english": "serve",
+    "bangla": "সেবা করা / পরিবেশন করা",
+    "example": "Volunteers serve food at community kitchens.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1407,
+    "english": "service",
+    "bangla": "সেবা",
+    "example": "Customer service is available 24/7.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1408,
+    "english": "session",
+    "bangla": "সেশন / অধিবেশন",
+    "example": "The training session starts at 10 AM.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1409,
+    "english": "set",
+    "bangla": "নির্ধারণ করা / সেট",
+    "example": "Set your alarm clock for early morning.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1410,
+    "english": "settle",
+    "bangla": "স্থায়ী হওয়া / সমাধান করা",
+    "example": "They decided to settle in a quiet town.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1411,
+    "english": "severe",
+    "bangla": "তীব্র / কঠোর",
+    "example": "The city suffered severe storm damage.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1412,
+    "english": "sew",
+    "bangla": "সেলাই করা",
+    "example": "She knows how to sew buttons on shirts.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1413,
+    "english": "shade",
+    "bangla": "ছায়া",
+    "example": "We sat in the cool shade of a tree.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1414,
+    "english": "shadow",
+    "bangla": "ছায়া",
+    "example": "Trees cast long shadows in the afternoon sun.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1415,
+    "english": "shallow",
+    "bangla": "অগভীর",
+    "example": "The water in this pool is quite shallow.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1416,
+    "english": "shame",
+    "bangla": "লজ্জা",
+    "example": "It is a shame to waste good food.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1417,
+    "english": "shape",
+    "bangla": "আকৃতি",
+    "example": "Bake the dough in a circular shape.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1418,
+    "english": "share",
+    "bangla": "শেয়ার করা / অংশ নেওয়া",
+    "example": "Good friends share their happiness and sorrow.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1419,
+    "english": "sharp",
+    "bangla": "ধারালো / তীক্ষ্ণ",
+    "example": "Handle sharp kitchen knives with care.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1420,
+    "english": "shatter",
+    "bangla": "চূর্ণ-বিচূর্ণ হওয়া",
+    "example": "The glass vase fell and shattered on the floor.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1421,
+    "english": "sheer",
+    "bangla": "খাঁটি / নিরঙ্কুশ",
+    "example": "She won the match through sheer hard work.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1422,
+    "english": "sheet",
+    "bangla": "চাদর / কাগজ",
+    "example": "Please write your answers on a blank sheet.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1423,
+    "english": "shelf",
+    "bangla": "শেলফ / তাক",
+    "example": "Books are arranged neatly on the wooden shelf.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1424,
+    "english": "shell",
+    "bangla": "খোসা / শামুকের খোলস",
+    "example": "We collected sea shells on the beach.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1425,
+    "english": "shelter",
+    "bangla": "আশ্রয়স্থল",
+    "example": "Stray animals need safe shelter and food.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1426,
+    "english": "shield",
+    "bangla": "ঢাল / সুরক্ষা কবচ",
+    "example": "Police used shields for crowd control.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1427,
+    "english": "shift",
+    "bangla": "স্থানান্তর করা / পরিবর্তন",
+    "example": "He works the night shift at the factory.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1428,
+    "english": "shine",
+    "bangla": "আলো ছড়ানো / চকচক করা",
+    "example": "Stars shine brightly in the night sky.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1429,
+    "english": "ship",
+    "bangla": "জাহাজ",
+    "example": "Cargo ships carry goods across oceans.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1430,
+    "english": "shirt",
+    "bangla": "শার্ট",
+    "example": "He wore a blue cotton shirt to work.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1431,
+    "english": "shock",
+    "bangla": "ধাক্কা / শক",
+    "example": "The sudden news came as a big shock.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1432,
+    "english": "shoe",
+    "bangla": "জুতো",
+    "example": "Tie your shoelaces before running.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1433,
+    "english": "shoot",
+    "bangla": "গুলি করা / ছবি তোলা",
+    "example": "Photographers shoot wildlife in forests.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1434,
+    "english": "shop",
+    "bangla": "দোকান",
+    "example": "She bought fresh fruit from the local shop.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1435,
+    "english": "shore",
+    "bangla": "উপকুল / তীর",
+    "example": "Waves gently washed against the sandy shore.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1436,
+    "english": "short",
+    "bangla": "খাটো / সংক্ষিপ্ত",
+    "example": "We took a short break during study time.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1437,
+    "english": "shot",
+    "bangla": "গুলি / শট",
+    "example": "The photographer took a wonderful snapshot.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1438,
+    "english": "shoulder",
+    "bangla": "কাঁধ",
+    "example": "He carried a heavy backpack on his shoulders.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1439,
+    "english": "shout",
+    "bangla": "চিৎকার করা",
+    "example": "Do not shout inside the hospital ward.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1440,
+    "english": "shovel",
+    "bangla": "কোদাল",
+    "example": "Workers used shovels to clear snow.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1441,
+    "english": "show",
+    "bangla": "প্রদর্শন করা / দেখানো",
+    "example": "Show me how to solve this math puzzle.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1442,
+    "english": "shower",
+    "bangla": "ঝরনা / স্নান",
+    "example": "He takes a refreshing shower every morning.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1443,
+    "english": "shrewd",
+    "bangla": "ধূর্ত / চতুর",
+    "example": "He made a shrewd business investment.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1444,
+    "english": "shrink",
+    "bangla": "সংকুচিত হওয়া / ছোট হয়ে যাওয়া",
+    "example": "Some cotton clothes tend to shrink in hot water.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1445,
+    "english": "shrub",
+    "bangla": "গুল্ম / ছোট গাছ",
+    "example": "Small flowering shrubs decorate the garden.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1446,
+    "english": "shrug",
+    "bangla": "কাঁধ ঝাঁকানো",
+    "example": "He just shrugged his shoulders in response.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1447,
+    "english": "shut",
+    "bangla": "বন্ধ করা",
+    "example": "Please shut the window before going out.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1448,
+    "english": "shy",
+    "bangla": "লাজুক",
+    "example": "She felt shy when speaking in public.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1449,
+    "english": "sick",
+    "bangla": "অসুস্থ",
+    "example": "He stayed home because he felt sick.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1450,
+    "english": "side",
+    "bangla": "পাশ / দিক",
+    "example": "Walk safely on the right side of the road.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1451,
+    "english": "sigh",
+    "bangla": "দীর্ঘশ্বাস ফেলা",
+    "example": "She let out a sigh of relief after testing.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1452,
+    "english": "sight",
+    "bangla": "দৃষ্টি / দৃশ্য",
+    "example": "Wearing glasses helps improve poor eyesight.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1453,
+    "english": "sign",
+    "bangla": "চিহ্ন / সই করা",
+    "example": "Please sign your name on the dotted line.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1454,
+    "english": "signal",
+    "bangla": "সংকেত",
+    "example": "Traffic signals control city vehicle movement.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1455,
+    "english": "signature",
+    "bangla": "স্বাক্ষর",
+    "example": "Your digital signature is required here.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1456,
+    "english": "significance",
+    "bangla": "তাৎপর্য / গুরুত্ব",
+    "example": "Understand the historical significance of the event.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1457,
+    "english": "significant",
+    "bangla": "তাৎপর্যপূর্ণ / গুরুত্বপূর্ণ",
+    "example": "Scientists noted significant progress in research.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1458,
+    "english": "silence",
+    "bangla": "নীরবতা",
+    "example": "Silence is golden during library study hours.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1459,
+    "english": "silk",
+    "bangla": "সিল্ক / রেশম",
+    "example": "She wore an elegant silk saree at the party.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1460,
+    "english": "silly",
+    "bangla": "বোকামি / বোকাসোকা",
+    "example": "Do not argue over silly little things.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1461,
+    "english": "silver",
+    "bangla": "রৌপ্য / রূপা",
+    "example": "She wore a shiny silver ring.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1462,
+    "english": "similar",
+    "bangla": "সদৃশ / একইরকম",
+    "example": "The two brothers have similar habits.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1463,
+    "english": "simple",
+    "bangla": "সহজ",
+    "example": "Keep your instructions clear and simple.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1464,
+    "english": "sin",
+    "bangla": "পাপ",
+    "example": "Stealing from others is considered a major sin.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1465,
+    "english": "since",
+    "bangla": "যেহেতু / থেকে",
+    "example": "I have lived here since 2015.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1466,
+    "english": "incere",
+    "bangla": "আন্তরিক",
+    "example": "He made a sincere apology for his mistake.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1467,
+    "english": "sing",
+    "bangla": "গান গাওয়া",
+    "example": "Little birds sing melodiously in trees.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1468,
+    "english": "singer",
+    "bangla": "গায়ক",
+    "example": "The famous singer performed on stage.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1469,
+    "english": "single",
+    "bangla": "একক",
+    "example": "Every single student passed the exam.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1470,
+    "english": "sink",
+    "bangla": "ডুবে যাওয়া / সিঙ্ক",
+    "example": "Heavy stones sink quickly in water.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1471,
+    "english": "sir",
+    "bangla": "স্যার / মহাশয়",
+    "example": "Good morning, sir; how can I help you?",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1472,
+    "english": "sister",
+    "bangla": "বোন",
+    "example": "My younger sister loves painting pictures.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1473,
+    "english": "site",
+    "bangla": "সাইট / স্থান",
+    "example": "Workers cleared land for the building site.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1474,
+    "english": "situation",
+    "bangla": "পরিস্থিতি",
+    "example": "Handle every difficult situation with patience.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1475,
+    "english": "size",
+    "bangla": "আকার / সাইজ",
+    "example": "What size shoes do you wear?",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1476,
+    "english": "skate",
+    "bangla": "স্কেটিং করা",
+    "example": "Children love to skate on frozen ponds.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1477,
+    "english": "skeleton",
+    "bangla": "কঙ্কাল",
+    "example": "Museums display dinosaur bone skeletons.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1478,
+    "english": "skill",
+    "bangla": "দক্ষতা",
+    "example": "Coding is a valuable modern career skill.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1479,
+    "english": "skin",
+    "bangla": "ত্বক / চামড়া",
+    "example": "Apply sunscreen to protect your skin.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1480,
+    "english": "skip",
+    "bangla": "এড়িয়ে যাওয়া / লাফানো",
+    "example": "Do not skip breakfast before going to school.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1481,
+    "english": "skirt",
+    "bangla": "স্কার্ট",
+    "example": "She wore a blue pleated skirt.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1482,
+    "english": "sky",
+    "bangla": "আকাশ",
+    "example": "Dark clouds filled the afternoon sky.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1483,
+    "english": "slam",
+    "bangla": "জোরে বন্ধ করা",
+    "example": "Do not slam the door behind you.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1484,
+    "english": "slender",
+    "bangla": "রুপসী / ক্ষীণকায়",
+    "example": "She wore a slender gold chain necklace.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1485,
+    "english": "slice",
+    "bangla": "স্লাইস / টুকরো",
+    "example": "Cut a thick slice of fresh bread.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1486,
+    "english": "slide",
+    "bangla": "স্লাইড করা / পিছলে যাওয়া",
+    "example": "Children enjoy playing on playground slides.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1487,
+    "english": "slight",
+    "bangla": "সামান্য",
+    "example": "There is a slight chance of rain today.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1488,
+    "english": "slim",
+    "bangla": "পাতলা / স্লিম",
+    "example": "Regular jogging helps keep your body slim.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1489,
+    "english": "slip",
+    "bangla": "পিছলে পড়া",
+    "example": "Be careful not to slip on wet floors.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1490,
+    "english": "slogan",
+    "bangla": "স্লোগান / শ্লোগান",
+    "example": "Protesters chanted slogans for justice.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1491,
+    "english": "slope",
+    "bangla": "ঢালু জমি / ঢাল",
+    "example": "The ski slope was covered in fresh snow.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1492,
+    "english": "slow",
+    "bangla": "ধীরগতির",
+    "example": "Traffic moved at a very slow pace.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1493,
+    "english": "slum",
+    "bangla": "বস্তি এলাকা",
+    "example": "Charities work to improve living conditions in slums.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 1494,
+    "english": "sly",
+    "bangla": "ধূর্ত / শঠ",
+    "example": "The sly fox managed to escape hunters.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1495,
+    "english": "small",
+    "bangla": "ছোট",
+    "example": "They live in a cozy small apartment.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1496,
+    "english": "smart",
+    "bangla": "স্মার্ট / বুদ্ধিমান",
+    "example": "She made a smart career decision.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1497,
+    "english": "smell",
+    "bangla": "ঘ্রাণ / গন্ধ",
+    "example": "Fresh flowers have a sweet fragrance and smell.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1498,
+    "english": "smile",
+    "bangla": "হাসি",
+    "example": "Her warm smile made everyone feel welcome.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1499,
+    "english": "smoke",
+    "bangla": "ধোঁয়া",
+    "example": "Thick black smoke rose from the chimney.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 1500,
+    "english": "smooth",
+    "bangla": "মসৃণ",
+    "example": "The highway has a smooth paved surface.",
+    "learnLevel": "medium"
+  }
 
 
 
