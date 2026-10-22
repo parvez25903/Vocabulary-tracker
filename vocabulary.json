@@ -6300,7 +6300,711 @@
     "bangla": "সুগন্ধ / সুবাস",
     "example": "Jasmine flowers filled the garden with rich fragrance.",
     "learnLevel": "medium"
+  },
+  
+  {
+    "id": 901,
+    "english": "obey",
+    "bangla": "মেনে চলা / আনুগত্য করা",
+    "example": "Students should obey the school rules.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 902,
+    "english": "object",
+    "bangla": "বস্তু / আপত্তি করা",
+    "example": "He found a strange object on the desk.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 903,
+    "english": "objective",
+    "bangla": "উদ্দেশ্য / নিরপেক্ষ",
+    "example": "Our main objective is to improve quality.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 904,
+    "english": "obligation",
+    "bangla": "দায়িত্ব / বাধ্যবাধকতা",
+    "example": "Parents have an obligation to care for children.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 905,
+    "english": "observe",
+    "bangla": "পর্যবেক্ষণ করা / পালন করা",
+    "example": "Scientists observe wildlife behavior in forests.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 906,
+    "english": "obstacle",
+    "bangla": "বাধা / বিপত্তি",
+    "example": "Hard work helps overcome many obstacles.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 907,
+    "english": "obtain",
+    "bangla": "অর্জন করা / সংগ্রহ করা",
+    "example": "You need a permit to obtain this document.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 908,
+    "english": "obvious",
+    "bangla": "স্পষ্ট / সুনির্দিষ্ট",
+    "example": "It was obvious that she had worked hard.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 909,
+    "english": "occasion",
+    "bangla": "উপলক্ষ / সুযোগ",
+    "example": "We celebrated the special occasion with family.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 910,
+    "english": "occupation",
+    "bangla": "পেশা / দখল",
+    "example": "Teaching is a very noble occupation.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 911,
+    "english": "occupy",
+    "bangla": "দখল করা / ব্যস্ত রাখা",
+    "example": "Books occupy a major part of my free time.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 912,
+    "english": "occur",
+    "bangla": "ঘটা / সংঘটিত হওয়া",
+    "example": "Accidents can occur due to carelessness.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 913,
+    "english": "ocean",
+    "bangla": "মহাসাগর",
+    "example": "Blue whales live in the deep ocean.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 914,
+    "english": "odd",
+    "bangla": "বিজোড় / অদ্ভুত",
+    "example": "He gave me an odd look when I spoke.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 915,
+    "english": "offend",
+    "bangla": "অপমান করা / বিরক্ত করা",
+    "example": "I did not mean to offend anyone with my words.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 916,
+    "english": "offer",
+    "bangla": "প্রস্তাব করা / দেওয়া",
+    "example": "She offered me a cup of hot tea.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 917,
+    "english": "official",
+    "bangla": "প্রাতিষ্ঠানিক / সরকারি",
+    "example": "This is an official document from the office.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 918,
+    "english": "offset",
+    "bangla": "ভারসাম্য রক্ষা করা / ক্ষতিপূরণ",
+    "example": "Extra income helps offset high living costs.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 919,
+    "english": "offspring",
+    "bangla": "সন্তান-সন্ততি / বংশধর",
+    "example": "Birds protect their offspring from predators.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 920,
+    "english": "ongoing",
+    "bangla": "চলমান",
+    "example": "Road construction is an ongoing project.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 921,
+    "english": "online",
+    "bangla": "অনলাইন / ইন্টারনেট ভিত্তিক",
+    "example": "Many students take online classes today.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 922,
+    "english": "opaque",
+    "bangla": "অস্বচ্ছ",
+    "example": "Wood is an opaque material.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 923,
+    "english": "operate",
+    "bangla": "চালানো / পরিচালনা করা",
+    "example": "She knows how to operate heavy machinery.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 924,
+    "english": "opinion",
+    "bangla": "মমত / মতামত",
+    "example": "Everyone is entitled to their own opinion.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 925,
+    "english": "opponent",
+    "bangla": "প্রতিপক্ষ / বিরোধী",
+    "example": "He respected his opponent in the chess match.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 926,
+    "english": "opportunity",
+    "bangla": "সুযোগ",
+    "example": "Do not miss this wonderful career opportunity.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 927,
+    "english": "oppose",
+    "bangla": "বিরোধিতা করা",
+    "example": "Local residents strongly oppose the new factory.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 928,
+    "english": "optimistic",
+    "bangla": "আশাবাদী",
+    "example": "Stay optimistic even during difficult times.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 929,
+    "english": "option",
+    "bangla": "বিকল্প",
+    "example": "You have multiple options to choose from.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 930,
+    "english": "ordinary",
+    "bangla": "সাধারণ",
+    "example": "It was just an ordinary day at work.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 931,
+    "english": "organize",
+    "bangla": "সংগঠিত করা / গুছিয়ে রাখা",
+    "example": "She likes to organize her desk every morning.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 932,
+    "english": "orient",
+    "bangla": "দিক নির্দেশ করা / পরিচিত করানো",
+    "example": "The map helped orient us in the city.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 933,
+    "english": "origin",
+    "bangla": "উৎপত্তি",
+    "example": "Scientists are trying to find the origin of the virus.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 934,
+    "english": "ornament",
+    "bangla": "অলংকার / গহনা",
+    "example": "She wore gold ornaments at the wedding.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 935,
+    "english": "orphan",
+    "bangla": "এতেম / পিতামাতাহীন শিশু",
+    "example": "The charity home supports many orphan children.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 936,
+    "english": "otherwise",
+    "bangla": "অন্যথায়",
+    "example": "Study hard, otherwise you might fail.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 937,
+    "english": "outcome",
+    "bangla": "ফলাফল",
+    "example": "We are waiting for the final election outcome.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 938,
+    "english": "outfit",
+    "bangla": "পোশাক-পরিচ্ছদ",
+    "example": "She wore a traditional outfit for the festival.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 939,
+    "english": "outlet",
+    "bangla": "বহির্গমন পথ / বিক্রয় কেন্দ্র",
+    "example": "The brand opened a new outlet in the mall.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 940,
+    "english": "outline",
+    "bangla": "রূপরেখা / সংক্ষিপ্ত বিবরণ",
+    "example": "He gave an outline of his business strategy.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 941,
+    "english": "output",
+    "bangla": "উৎপাদন / আউটপুট",
+    "example": "Factory output increased by ten percent this month.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 942,
+    "english": "outrage",
+    "bangla": "বিক্ষোভ / তীব্র ক্ষোভ",
+    "example": "The new tax policy caused public outrage.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 943,
+    "english": "outstanding",
+    "bangla": "চমৎকার / অসাধারণ",
+    "example": "She received an award for her outstanding performance.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 944,
+    "english": "overcome",
+    "bangla": "জয় করা / কাটিয়ে ওঠা",
+    "example": "Courage helps people overcome fear.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 945,
+    "english": "overflow",
+    "bangla": "উপচে পড়া",
+    "example": "The river began to overflow due to heavy rain.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 946,
+    "english": "overhead",
+    "bangla": "উপরের দিকে / মাথার ওপর",
+    "example": "Aeroplanes flew high overhead.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 947,
+    "english": "overlook",
+    "bangla": "উপেক্ষা করা / নজর এড়িয়ে যাওয়া",
+    "example": "We should not overlook minor spelling errors.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 948,
+    "english": "overseas",
+    "bangla": "বিদেশী / সমুদ্রপারে",
+    "example": "He plans to pursue higher studies overseas.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 949,
+    "english": "overwhelm",
+    "bangla": "অভিভূত করা / পরাস্ত করা",
+    "example": "The amount of work can sometimes overwhelm you.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 950,
+    "english": "owl",
+    "bangla": "পেঁচা",
+    "example": "An owl is a nocturnal bird.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 951,
+    "english": "owner",
+    "bangla": "মালিক",
+    "example": "Who is the owner of this red car?",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 952,
+    "english": "oxygen",
+    "bangla": "অক্সিজেন",
+    "example": "Living beings need oxygen to survive.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 953,
+    "english": "pace",
+    "bangla": "গতি / হাঁটার গতি",
+    "example": "He walked at a steady pace along the trail.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 954,
+    "english": "pacific",
+    "bangla": "শান্ত / প্রশান্ত",
+    "example": "The Pacific Ocean is the largest ocean.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 955,
+    "english": "package",
+    "bangla": "প্যাকেজ / পার্সেল",
+    "example": "I received a delivery package in the mail.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 956,
+    "english": "painful",
+    "bangla": "বেদনাদায়ক",
+    "example": "He suffered a painful injury during the game.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 957,
+    "english": "palace",
+    "bangla": "প্রাসাদ",
+    "example": "The ancient king lived in a grand palace.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 958,
+    "english": "pamphlet",
+    "bangla": "পুস্তিকা / লিফলেট",
+    "example": "She handed out informational pamphlets.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 959,
+    "english": "panic",
+    "bangla": "আতঙ্ক",
+    "example": "Try not to panic in an emergency situation.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 960,
+    "english": "paradise",
+    "bangla": "স্বর্গ",
+    "example": "The island looks like a tropical paradise.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 961,
+    "english": "parallel",
+    "bangla": "সমান্তরাল",
+    "example": "These two railway lines run parallel.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 962,
+    "english": "paralyse",
+    "bangla": "অচল করে দেওয়া / পক্ষাঘাতগ্রস্ত করা",
+    "example": "Heavy snowfall can paralyse city traffic.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 963,
+    "english": "parameter",
+    "bangla": "নির্ধারিত সীমা / মাপকাঠি",
+    "example": "We must work within these safety parameters.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 964,
+    "english": "pardon",
+    "bangla": "ক্ষমা করা",
+    "example": "Pardon me, could you repeat that please?",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 965,
+    "english": "parent",
+    "bangla": "পিতামাতা",
+    "example": "Every parent wants a bright future for their child.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 966,
+    "english": "partial",
+    "bangla": "আংশিক",
+    "example": "The plan received only partial support.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 967,
+    "english": "participant",
+    "bangla": "অংশগ্রহণকারী",
+    "example": "Every participant received a certificate.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 968,
+    "english": "particle",
+    "bangla": "কণা / অণু-পরমাণু",
+    "example": "Dust particles floated in the sunlight.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 969,
+    "english": "particular",
+    "bangla": "নির্দিষ্ট / বিশেষ",
+    "example": "Is there any particular book you are looking for?",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 970,
+    "english": "partner",
+    "bangla": "অংশীদার / সঙ্গী",
+    "example": "They are business partners for five years.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 971,
+    "english": "passionate",
+    "bangla": "আবেগপ্রবণ / উৎসাহী",
+    "example": "She is passionate about wildlife photography.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 972,
+    "english": "passive",
+    "bangla": "নিষ্ক্রিয়",
+    "example": "He remained passive during the discussion.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 973,
+    "english": "password",
+    "bangla": "পাসওয়ার্ড / গোপন শব্দ",
+    "example": "Keep your online account password secure.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 974,
+    "english": "patch",
+    "bangla": "টুকরো / তালি",
+    "example": "She fixed the torn jeans with a colorful patch.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 975,
+    "english": "patent",
+    "bangla": "পেটেন্ট / উদ্ভাবনী সনদ",
+    "example": "The inventor applied for a product patent.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 976,
+    "english": "patience",
+    "bangla": "ধৈর্য",
+    "example": "Learning a new language requires great patience.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 977,
+    "english": "patrol",
+    "bangla": "পহল্লা দেওয়া / টহল দেওয়া",
+    "example": "Police cars patrol the streets at night.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 978,
+    "english": "pave",
+    "bangla": "পথ পরিষ্কার করা / পাকা করা",
+    "example": "Workers are planning to pave the muddy road.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 979,
+    "english": "peak",
+    "bangla": "চূড়া / শীর্ষবিন্দু",
+    "example": "Climbers reached the mountain peak before noon.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 980,
+    "english": "peasant",
+    "bangla": "কৃষক",
+    "example": "Peasants work hard in the fields all day.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 981,
+    "english": "peculiar",
+    "bangla": "অস্বাভাবিক / অদ্ভুত",
+    "example": "I noticed a peculiar smell in the kitchen.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 982,
+    "english": "pedestrian",
+    "bangla": "পথচারী",
+    "example": "Pedestrians must use the zebra crossing to cross.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 983,
+    "english": "peer",
+    "bangla": "সহকর্মী / সমবয়সী",
+    "example": "She is well-respected by her academic peers.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 984,
+    "english": "penalty",
+    "bangla": "জরিমানা / শাস্তি",
+    "example": "The player received a penalty for a foul.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 985,
+    "english": "pendulum",
+    "bangla": "দোলক",
+    "example": "The clock pendulum swung back and forth.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 986,
+    "english": "penetrate",
+    "bangla": "প্রবেশ করা / ভেদ করা",
+    "example": "Sunlight can penetrate deep into clear water.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 987,
+    "english": "pension",
+    "bangla": "অবসরকালীন ভাতা / পেনশন",
+    "example": "Retired workers receive a monthly pension.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 988,
+    "english": "perceive",
+    "bangla": "উপলব্ধি করা / অনুভব করা",
+    "example": "People perceive color and sound differently.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 989,
+    "english": "percent",
+    "bangla": "শতকরা",
+    "example": "Over ninety percent of students passed the exam.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 990,
+    "english": "perfect",
+    "bangla": "নিখুঁত",
+    "example": "Practice makes a person perfect.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 991,
+    "english": "perform",
+    "bangla": "সম্পাদন করা / অভিনয় করা",
+    "example": "Artists will perform traditional music tonight.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 992,
+    "english": "perfume",
+    "bangla": "সুগন্ধি",
+    "example": "She bought a bottle of sweet-smelling perfume.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 993,
+    "english": "period",
+    "bangla": "সময়কাল / কাল",
+    "example": "Dinosaurs lived during a prehistoric period.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 994,
+    "english": "permanent",
+    "bangla": "স্থায়ী",
+    "example": "He got a permanent job at the bank.",
+    "learnLevel": "medium"
+  },
+  {
+    "id": 995,
+    "english": "permission",
+    "bangla": "অনুমতি",
+    "example": "You need permission to enter this room.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 996,
+    "english": "perplex",
+    "bangla": "হতবুদ্ধি করা / বিভ্রান্ত করা",
+    "example": "The complex riddle began to perplex him.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 997,
+    "english": "persist",
+    "bangla": "লেগে থাকা / জিদ করা",
+    "example": "If symptoms persist, consult a doctor immediately.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 998,
+    "english": "personal",
+    "bangla": "ব্যক্তিগত",
+    "example": "Please keep your personal information secure.",
+    "learnLevel": "easy"
+  },
+  {
+    "id": 999,
+    "english": "persuade",
+    "bangla": "সম্মত করানো / রাজি করানো",
+    "example": "She tried to persuade him to join the trip.",
+    "learnLevel": "hard"
+  },
+  {
+    "id": 1000,
+    "english": "pest",
+    "bangla": "ক্ষতিকর পোকা / উৎপাত",
+    "example": "Farmers use pesticides to protect crops from pests.",
+    "learnLevel": "medium"
   }
+
+
+
 
 
 
