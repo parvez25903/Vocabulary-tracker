@@ -2,6 +2,7 @@ let vocabulary = [];
 let learnedWordIds = new Set(JSON.parse(localStorage.getItem('vt_learned_ids') || '[]'));
 let favoriteWordIds = new Set(JSON.parse(localStorage.getItem('vt_favorite_ids') || '[]'));
 let currentDay = parseInt(localStorage.getItem('vt_current_day') || '1');
+let examHistory = JSON.parse(localStorage.getItem('vt_exam_history') || '[]');
 
 function speakWord(text) {
     if ('speechSynthesis' in window) {
@@ -31,6 +32,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     initTheme();
     await loadVocabularyData();
     renderDashboard();
+    renderExamHistory();
 });
 
 function initTheme() {
@@ -88,6 +90,7 @@ function switchTab(tabName) {
     if (tabName === 'dashboard') renderDashboard();
     if (tabName === 'learn') renderLearnTab();
     if (tabName === 'favorites') renderFavorites();
+    if (tabName === 'quiz') renderExamHistory();
     if (tabName === 'update-json') renderUpdateJsonTab();
 }
 
@@ -230,12 +233,20 @@ function finishTodayTask() {
     renderLearnTab();
 }
 
+// কুইজ এক্সাম লজিক (শর্ত অনুযায়ী প্রশ্ন সংখ্যা নির্ধারণ)
 function startQuiz(type) {
     const learnedWords = vocabulary.filter(w => learnedWordIds.has(w.id));
+    const learnedCount = learnedWords.length;
     
-    if (learnedWords.length < 4) {
-        alert("কুইজ শুরু করার জন্য অন্তত ৪টি শব্দ পড়া সম্পন্ন (Mark Learned) থাকতে হবে!");
+    // ২০টির কম পড়া হলে কুইজ হবে না
+    if (learnedCount < 20) {
+        alert(`দুঃখিত! কুইজ শুরু করার জন্য কমপক্ষে ২০টি শব্দ পড়া সম্পন্ন থাকতে হবে। আপনার পড়া আছে ${learnedCount}টি শব্দ।`);
         return;
+    }
+
+    let questionCount = 25; // ৩০ বা ৪০টি পড়া হলে ২৫টি প্রশ্ন
+    if (learnedCount >= 50) {
+        questionCount = 50; // ৫০ বা তার বেশি পড়া হলে ৫০টি র‍্যান্ডম প্রশ্ন
     }
 
     const quizArea = document.getElementById('quiz-area');
@@ -247,45 +258,43 @@ function startQuiz(type) {
     quizBox.innerHTML = '';
 
     const shuffled = [...learnedWords].sort(() => 0.5 - Math.random());
-    const questions = shuffled.slice(0, 5);
+    const questions = shuffled.slice(0, Math.min(questionCount, shuffled.length));
 
-    if (type === 'mcq') {
-        renderMCQQuiz(questions, learnedWords);
-    } else {
-        renderWrittenQuiz(questions);
-    }
+    renderMCQQuiz(questions, learnedWords);
 }
 
 function renderMCQQuiz(questions, pool) {
     const quizBox = document.getElementById('quiz-box');
-    quizBox.setAttribute('data-quiz-type', 'mcq');
+    quizBox.innerHTML = '';
 
     questions.forEach((q, idx) => {
         const wrongOptions = pool.filter(w => w.id !== q.id).sort(() => 0.5 - Math.random()).slice(0, 3);
         const options = [...wrongOptions, q].sort(() => 0.5 - Math.random());
 
         const qCard = document.createElement('div');
-        qCard.className = "p-4 border border-gray-200 dark:border-gray-700 rounded-lg space-y-3";
+        qCard.className = "p-4 border border-gray-200 dark:border-gray-700 rounded-lg space-y-3 question-card";
+        qCard.setAttribute('id', `q_card_${idx}`);
         qCard.innerHTML = `
             <div class="flex items-center justify-between">
                 <p class="font-bold">${idx + 1}. "${q.english}" শব্দটির সঠিক অর্থ কোনটি?</p>
                 <button onclick="speakWord('${q.english}')" class="text-gray-500 hover:text-brand-600"><i class="fa-solid fa-volume-high"></i></button>
             </div>
-            <div class="grid grid-cols-1 sm:grid-cols-2 gap-2">
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-2" id="options_container_${idx}">
                 ${options.map(opt => `
-                    <label class="flex items-center p-3 border dark:border-gray-700 rounded-lg cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-700">
+                    <label class="flex items-center p-3 border dark:border-gray-700 rounded-lg cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-700 option-label" data-opt-id="${opt.id}">
                         <input type="radio" name="q_${idx}" value="${opt.id}" class="mr-2">
                         <span>${opt.bangla}</span>
                     </label>
                 `).join('')}
             </div>
             <input type="hidden" id="ans_${idx}" value="${q.id}">
+            <div id="feedback_${idx}" class="text-sm font-semibold mt-2 hidden"></div>
         `;
         quizBox.appendChild(qCard);
     });
 
     const submitBtn = document.createElement('button');
-    submitBtn.className = "px-6 py-2.5 bg-brand-600 text-white font-bold rounded-lg mt-4";
+    submitBtn.className = "px-6 py-2.5 bg-brand-600 text-white font-bold rounded-lg mt-4 shadow";
     submitBtn.innerText = "উত্তর জমা দিন";
     submitBtn.onclick = () => evaluateMCQ(questions.length);
     quizBox.appendChild(submitBtn);
@@ -293,54 +302,101 @@ function renderMCQQuiz(questions, pool) {
 
 function evaluateMCQ(total) {
     let score = 0;
+    let wrong = 0;
+
     for (let i = 0; i < total; i++) {
         const selected = document.querySelector(`input[name="q_${i}"]:checked`);
-        const correctId = document.getElementById(`ans_${i}`).value;
-        if (selected && selected.value === correctId) {
-            score++;
+        const correctId = parseInt(document.getElementById(`ans_${i}`).value);
+        const feedbackDiv = document.getElementById(`feedback_${i}`);
+        const optionsContainer = document.getElementById(`options_container_${i}`);
+        
+        // সমস্ত লেবেল ডিজেবল করা
+        const labels = optionsContainer.querySelectorAll('.option-label');
+        labels.forEach(lbl => {
+            const radio = lbl.querySelector('input');
+            radio.disabled = true;
+            const optId = parseInt(lbl.getAttribute('data-opt-id'));
+            
+            // সঠিক উত্তর সবুজ করা[span_4](start_span)[span_4](end_span)
+            if (optId === correctId) {
+                lbl.classList.add('bg-green-100', 'dark:bg-green-900/40', 'border-green-500', 'text-green-700', 'dark:text-green-300');
+            }
+        });
+
+        if (selected) {
+            const selectedVal = parseInt(selected.value);
+            if (selectedVal === correctId) {
+                score++;
+                feedbackDiv.innerHTML = `<span class="text-green-600">আপনার উত্তর সঠিক!</span>`;
+            } else {
+                wrong++;
+                // ভুল উত্তর লাল করা[span_5](start_span)[span_5](end_span)
+                labels.forEach(lbl => {
+                    const optId = parseInt(lbl.getAttribute('data-opt-id'));
+                    if (optId === selectedVal) {
+                        lbl.classList.add('bg-red-100', 'dark:bg-red-900/40', 'border-red-500', 'text-red-700', 'dark:text-red-300');
+                    }
+                });
+                feedbackDiv.innerHTML = `<span class="text-red-500">আপনার উত্তর ভুল ছিল। সঠিক উত্তরটি সবুজ রঙে চিহ্নিত করা হয়েছে।</span>`;
+            }
+        } else {
+            wrong++;
+            feedbackDiv.innerHTML = `<span class="text-yellow-500">আপনি কোনো উত্তর নির্বাচন করেননি। সঠিক উত্তরটি সবুজ রঙে চিহ্নিত করা হয়েছে।</span>`;
         }
+        feedbackDiv.classList.remove('hidden');
     }
 
+    // সাবমিট বাটন হাইড করা যাতে দুবার সাবমিট না হয়
+    event.target.style.display = 'none';
+
     const res = document.getElementById('quiz-results');
-    res.innerText = `পরীক্ষার ফলাফল: আপনি ${total} টির মধ্যে ${score} টি সঠিক উত্তর দিয়েছেন!`;
+    res.innerText = `পরীক্ষার ফলাফল: আপনি ${total} টির মধ্যে ${score} টি সঠিক এবং ${wrong} টি ভুল উত্তর দিয়েছেন!`;
     res.classList.remove('hidden');
+
+    // ডাটাবেস/লোকালস্টোরেজে সংরক্ষণ[span_6](start_span)[span_6](end_span)
+    saveExamRecord(total, score, wrong);
 }
 
-function renderWrittenQuiz(questions) {
-    const quizBox = document.getElementById('quiz-box');
-    quizBox.innerHTML = '';
+function saveExamRecord(total, score, wrong) {
+    const now = new Date();
+    const dateStr = now.toLocaleDateString('bn-BD') + ' ' + now.toLocaleTimeString('bn-BD');
+    const percentage = Math.round((score / total) * 100) + '%';
 
-    questions.forEach((q, idx) => {
-        const qCard = document.createElement('div');
-        qCard.className = "p-4 border border-gray-200 dark:border-gray-700 rounded-lg space-y-3";
-        qCard.innerHTML = `
-            <p class="font-bold">${idx + 1}. "<strong>${q.bangla}</strong>" এর ইংরেজি শব্দ কী?</p>
-            <input type="text" id="written_ans_${idx}" class="w-full p-2 border rounded-lg dark:bg-gray-900 border-gray-300 dark:border-gray-700" placeholder="ইংরেজি বানানটি লিখুন...">
-            <input type="hidden" id="written_correct_${idx}" value="${q.english.toLowerCase().trim()}">
+    const record = {
+        date: dateStr,
+        totalQuestions: total,
+        correctAnswers: score,
+        wrongAnswers: wrong,
+        scorePercentage: percentage
+    };
+
+    examHistory.unshift(record); // নতুন রেকর্ড প্রথমে যুক্ত হবে
+    localStorage.setItem('vt_exam_history', JSON.stringify(examHistory));
+    renderExamHistory();
+}
+
+function renderExamHistory() {
+    const tbody = document.getElementById('exam-history-tbody');
+    if (!tbody) return;
+    tbody.innerHTML = '';
+
+    if (examHistory.length === 0) {
+        tbody.innerHTML = `<tr><td colspan="5" class="py-4 text-center text-gray-500">এখনও কোনো এক্সাম দেওয়া হয়নি।</td></tr>`;
+        return;
+    }
+
+    examHistory.forEach(item => {
+        const row = document.createElement('tr');
+        row.className = "border-b dark:border-gray-700 text-sm";
+        row.innerHTML = `
+            <td class="py-3 px-4">${item.date}</td>
+            <td class="py-3 px-4 font-semibold">${item.totalQuestions}</td>
+            <td class="py-3 px-4 text-emerald-600 font-bold">${item.correctAnswers}</td>
+            <td class="py-3 px-4 text-red-500 font-bold">${item.wrongAnswers}</td>
+            <td class="py-3 px-4 font-extrabold text-brand-600">${item.scorePercentage}</td>
         `;
-        quizBox.appendChild(qCard);
+        tbody.appendChild(row);
     });
-
-    const submitBtn = document.createElement('button');
-    submitBtn.className = "px-6 py-2.5 bg-purple-600 text-white font-bold rounded-lg mt-4";
-    submitBtn.innerText = "লিখিত উত্তর জমা দিন";
-    submitBtn.onclick = () => evaluateWritten(questions.length);
-    quizBox.appendChild(submitBtn);
-}
-
-function evaluateWritten(total) {
-    let score = 0;
-    for (let i = 0; i < total; i++) {
-        const userAns = document.getElementById(`written_ans_${i}`).value.toLowerCase().trim();
-        const correctAns = document.getElementById(`written_correct_${i}`).value;
-        if (userAns === correctAns) {
-            score++;
-        }
-    }
-
-    const res = document.getElementById('quiz-results');
-    res.innerText = `পরীক্ষার ফলাফল: আপনি ${total} টির মধ্যে ${score} টি সঠিক ইংরেজি লিখতে পেরেছেন!`;
-    res.classList.remove('hidden');
 }
 
 function renderFavorites() {
