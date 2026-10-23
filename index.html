@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="bn">
+<html lang="bn" class="dark">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vocabulary Tracker & Quiz System</title>
+    <title>ভোকাবুলারি মাস্টার ও কুইজ সিস্টেম</title>
     <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
@@ -27,24 +27,28 @@
     </script>
     <!-- FontAwesome CDN -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;500;600;700&display=swap');
+        body { font-family: 'Hind Siliguri', sans-serif; }
+    </style>
 </head>
 <body class="bg-gray-50 dark:bg-gray-900 text-gray-800 dark:text-gray-100 min-h-screen flex flex-col transition-colors duration-200">
 
     <!-- Header Navigation -->
-    <header class="bg-white dark:bg-gray-800 shadow sticky top-0 z-50">
+    <header class="bg-white dark:bg-gray-800 shadow-md sticky top-0 z-50 border-b border-gray-100 dark:border-gray-700">
         <div class="max-w-7xl mx-auto px-4 py-4 flex flex-col sm:flex-row justify-between items-center gap-4">
             <div class="flex items-center space-x-3">
-                <div class="bg-brand-600 text-white p-2.5 rounded-xl shadow">
+                <div class="bg-brand-600 text-white p-2.5 rounded-xl shadow-lg">
                     <i class="fa-solid fa-graduation-cap text-xl"></i>
                 </div>
                 <div>
-                    <h1 class="text-xl font-bold tracking-tight">Vocabulary Master</h1>
+                    <h1 class="text-xl font-bold tracking-tight">ভোকাবুলারি মাস্টার</h1>
                     <p class="text-xs text-gray-500 dark:text-gray-400">স্মার্ট ভোকেবুলারি ট্র্যাকার ও এক্সাম সিস্টেম</p>
                 </div>
             </div>
             
             <div class="flex items-center space-x-2 overflow-x-auto w-full sm:w-auto pb-2 sm:pb-0">
-                <button onclick="switchTab('dashboard')" id="tab-dashboard" class="px-4 py-2 text-sm font-semibold rounded-lg border border-brand-600 text-brand-600 transition">ড্যাশবোর্ড</button>
+                <button onclick="switchTab('dashboard')" id="tab-dashboard" class="px-4 py-2 text-sm font-semibold rounded-lg border border-brand-600 text-brand-600 transition shadow-sm">ড্যাশবোর্ড</button>
                 <button onclick="switchTab('learn')" id="tab-learn" class="px-4 py-2 text-sm font-semibold rounded-lg border border-transparent text-gray-500 dark:text-gray-400 hover:text-brand-600 transition">পড়াশোনা</button>
                 <button onclick="switchTab('quiz')" id="tab-quiz" class="px-4 py-2 text-sm font-semibold rounded-lg border border-transparent text-gray-500 dark:text-gray-400 hover:text-brand-600 transition">কুইজ এক্সাম</button>
                 <button onclick="switchTab('favorites')" id="tab-favorites" class="px-4 py-2 text-sm font-semibold rounded-lg border border-transparent text-gray-500 dark:text-gray-400 hover:text-brand-600 transition">প্রিয় শব্দ</button>
@@ -102,7 +106,7 @@
 
         <!-- Learn Section -->
         <section id="sec-learn" class="space-y-6 hidden">
-            <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 bg-white dark:bg-gray-800 p-6 rounded-2xl border border-gray-100 dark:border-gray-700">
+            <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 bg-white dark:bg-gray-800 p-6 rounded-2xl border border-gray-100 dark:border-gray-700 shadow-sm">
                 <div>
                     <h2 id="learn-heading" class="text-xl font-bold">Day 1 Task</h2>
                     <p class="text-sm text-gray-500 dark:text-gray-400">শব্দগুলো পড়ুন, উচ্চারণ শুনুন এবং পড়ার পরে মার্ক করুন।</p>
@@ -119,11 +123,11 @@
         <section id="sec-quiz" class="space-y-6 hidden">
             <div class="bg-white dark:bg-gray-800 p-6 rounded-2xl border border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
                 <h2 class="text-xl font-bold">কুইজ ও এক্সাম মডিউল</h2>
-                <p class="text-sm text-gray-500 dark:text-gray-400">আপনার পড়া শব্দের উপর ভিত্তি করে স্বয়ংক্রিয়ভাবে প্রশ্ন তৈরি হবে (২০টির কম পড়লে কুইজ হবে না, ৩০-৪০টি পড়লে ২৫টি এবং ৫০+ পড়লে ৫০টি র‍্যান্ডম প্রশ্ন আসবে)[span_3](start_span)[span_3](end_span)!</p>
+                <p class="text-sm text-gray-500 dark:text-gray-400">আপনার পড়া শব্দের উপর ভিত্তি করে স্বয়ংক্রিয়ভাবে প্রশ্ন তৈরি হবে (২০টির কম পড়লে কুইজ হবে না, ৩০-৪০টি পড়লে ২৫টি এবং ৫০+ পড়লে ৫০টি র‍্যান্ডম প্রশ্ন আসবে)[span_1](start_span)[span_1](end_span)!</p>
                 
                 <div class="flex gap-4">
-                    <button onclick="startQuiz('mcq')" class="px-6 py-3 bg-brand-600 hover:bg-brand-700 text-white font-bold rounded-xl transition shadow">
-                        <i class="fa-solid fa-brain mr-2"></i> এমসিকিউ কুইজ শুরু করুন
+                    <button onclick="startQuiz()" class="px-6 py-3 bg-brand-600 hover:bg-brand-700 text-white font-bold rounded-xl transition shadow">
+                        <i class="fa-solid fa-brain mr-2"></i> কুইজ এক্সাম শুরু করুন
                     </button>
                 </div>
             </div>
@@ -148,9 +152,7 @@
                                 <th class="py-3 px-4">স্কোর</th>
                             </tr>
                         </thead>
-                        <tbody id="exam-history-tbody">
-                            <!-- Dynamically loaded history -->
-                        </tbody>
+                        <tbody id="exam-history-tbody"></tbody>
                     </table>
                 </div>
             </div>
@@ -171,9 +173,9 @@
                     <input type="text" id="newBangla" placeholder="বাংলা অর্থ (Bangla)" class="p-3 border rounded-xl dark:bg-gray-900 border-gray-300 dark:border-gray-700" required>
                     <input type="text" id="newExample" placeholder="উদাহরণ বাক্য (Example)" class="p-3 border rounded-xl dark:bg-gray-900 border-gray-300 dark:border-gray-700">
                     <select id="newLevel" class="p-3 border rounded-xl dark:bg-gray-900 border-gray-300 dark:border-gray-700">
-                        <option value="easy">Easy</option>
-                        <option value="medium">Medium</option>
-                        <option value="hard">Hard</option>
+                        <option value="easy">সহজ (Easy)</option>
+                        <option value="medium">মাঝারি (Medium)</option>
+                        <option value="hard">কঠিন (Hard)</option>
                     </select>
                     <button type="submit" class="sm:col-span-2 lg:col-span-4 py-3 bg-brand-600 text-white font-bold rounded-xl shadow">শব্দ যোগ করুন</button>
                 </form>
@@ -194,7 +196,7 @@
 
     <!-- Footer -->
     <footer class="bg-white dark:bg-gray-800 border-t dark:border-gray-700 py-6 text-center text-sm text-gray-500">
-        <p>&copy; 2026 Vocabulary Master & Quiz App. সকল অধিকার সংরক্ষিত।</p>
+        <p>&copy; 2026 ভোকেবুলারি মাস্টার & কুইজ অ্যাপ। সকল অধিকার সংরক্ষিত।</p>
     </footer>
 
     <!-- JavaScript Link -->
