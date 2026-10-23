@@ -12,7 +12,7 @@ function speakWord(text) {
         utterance.rate = 0.9;
         window.speechSynthesis.speak(utterance);
     } else {
-        alert("দুঃখিত, আপনার ব্রাউজারে টেক্সট-টু-স্পিচ (উচ্চারণ) সার্ভিস সাপোর্টেড নয়।");
+        alert("Dukkhito, apnar browser-e speech synthesis supported noy.");
     }
 }
 
@@ -106,7 +106,7 @@ function renderDashboard() {
 
     const progressPercent = totalWords > 0 ? Math.round((learnedCount / totalWords) * 100) : 0;
     document.getElementById('overall-progress-bar').style.width = `${progressPercent}%`;
-    document.getElementById('overall-progress-text').innerText = `${progressPercent}% সম্পন্ন (${learnedCount}/${totalWords})`;
+    document.getElementById('overall-progress-text').innerText = `${progressPercent}% shompurno (${learnedCount}/${totalWords})`;
 
     const roadmap = document.getElementById('roadmap-container');
     roadmap.innerHTML = '';
@@ -133,10 +133,10 @@ function renderDashboard() {
             <div class="flex justify-between items-center mb-2">
                 <span class="font-bold text-sm">Day ${simulatedDay}</span>
                 ${isCompleted ? '<i class="fa-solid fa-circle-check text-brand-600"></i>' : ''}
-                ${isCurrent ? '<span class="text-xs bg-brand-600 text-white px-2 py-0.5 rounded-full">চলমান</span>' : ''}
+                ${isCurrent ? '<span class="text-xs bg-brand-600 text-white px-2 py-0.5 rounded-full">Choloman</span>' : ''}
             </div>
-            <p class="text-xs text-gray-500 dark:text-gray-400">টাস্ক: ${dailyCount}টি নতুন শব্দ</p>
-            <p class="text-xs text-gray-400 mt-1">শব্দ সীমা: ${prevAccumulated + 1} - ${Math.min(accumulatedWords, totalWords)}</p>
+            <p class="text-xs text-gray-500 dark:text-gray-400">Task: ${dailyCount} ti notun shobd</p>
+            <p class="text-xs text-gray-400 mt-1">Shobd shima: ${prevAccumulated + 1} - ${Math.min(accumulatedWords, totalWords)}</p>
         `;
         roadmap.appendChild(card);
         simulatedDay++;
@@ -148,13 +148,13 @@ function renderLearnTab() {
     const startIndex = getTargetForDay(currentDay - 1);
     const todayWords = vocabulary.slice(startIndex, targetIndex);
 
-    document.getElementById('learn-heading').innerText = `Day ${currentDay} Task (${todayWords.length} টি শব্দ)`;
+    document.getElementById('learn-heading').innerText = `Day ${currentDay} Task (${todayWords.length} ti shobd)`;
 
     const container = document.getElementById('words-container');
     container.innerHTML = '';
 
     if (todayWords.length === 0) {
-        container.innerHTML = `<p class="col-span-full text-center text-gray-500 py-10">আর কোনো নতুন শব্দ নেই অথবা আপনি আজকের টাস্ক সম্পন্ন করেছেন!</p>`;
+        container.innerHTML = `<p class="col-span-full text-center text-gray-500 py-10">Ar kono notun shobd nei ba apni ajker task shompurno korechen!</p>`;
         return;
     }
 
@@ -171,7 +171,7 @@ function renderLearnTab() {
             <div class="flex justify-between items-start mb-2">
                 <div class="flex items-center space-x-2">
                     <h3 class="text-lg font-bold text-brand-600 dark:text-brand-400">${word.english}</h3>
-                    <button onclick="speakWord('${word.english}')" title="উচ্চারণ শুনুন" class="p-1 text-gray-500 hover:text-brand-600 dark:text-gray-400 dark:hover:text-brand-400 transition">
+                    <button onclick="speakWord('${word.english}')" title="Uchcharon shunon" class="p-1 text-gray-500 hover:text-brand-600 dark:text-gray-400 dark:hover:text-brand-400 transition">
                         <i class="fa-solid fa-volume-high"></i>
                     </button>
                     <span class="text-xs px-2 py-0.5 rounded border capitalize ${
@@ -186,7 +186,7 @@ function renderLearnTab() {
             <p class="text-base font-semibold mb-2 text-gray-800 dark:text-gray-200">${word.bangla}</p>
             <div class="flex items-center justify-between mb-4">
                 <p class="text-sm text-gray-500 dark:text-gray-400 italic">"${word.example}"</p>
-                <button onclick="speakWord('${word.example.replace(/'/g, "\\'")}')" title="বাক্যের উচ্চারণ শুনুন" class="ml-2 text-xs text-gray-400 hover:text-brand-600">
+                <button onclick="speakWord('${word.example.replace(/'/g, "\\'")}')" title="Sentence uchcharon" class="ml-2 text-xs text-gray-400 hover:text-brand-600">
                     <i class="fa-solid fa-volume-low"></i>
                 </button>
             </div>
@@ -194,7 +194,7 @@ function renderLearnTab() {
             <button onclick="toggleLearned(${word.id})" class="w-full py-2 rounded-lg text-sm font-semibold border transition ${
                 isLearned ? 'bg-green-600 text-white border-green-600' : 'border-gray-300 dark:border-gray-600 hover:border-brand-600'
             }">
-                <i class="fa-solid ${isLearned ? 'fa-check' : 'fa-plus'} mr-1"></i> ${isLearned ? 'পড়া সম্পন্ন হয়েছে' : 'মার্ক করুন (Learned)'}
+                <i class="fa-solid ${isLearned ? 'fa-check' : 'fa-plus'} mr-1"></i> ${isLearned ? 'Pora shompurno hoyeche' : 'Mark korun (Learned)'}
             </button>
         `;
         container.appendChild(card);
@@ -228,25 +228,24 @@ function finishTodayTask() {
     currentDay += 1;
     localStorage.setItem('vt_current_day', currentDay.toString());
 
-    alert('অভিনন্দন! আজকের টাস্ক সম্পন্ন হয়েছে। আগামী দিনের টাস্ক আনলক করা হয়েছে।');
+    alert('Abhinondon! Ajker task shompurno hoyeche.');
     renderDashboard();
     renderLearnTab();
 }
 
-// কুইজ এক্সাম লজিক (শর্ত অনুযায়ী প্রশ্ন সংখ্যা নির্ধারণ)
 function startQuiz(type) {
     const learnedWords = vocabulary.filter(w => learnedWordIds.has(w.id));
     const learnedCount = learnedWords.length;
     
-    // ২০টির কম পড়া হলে কুইজ হবে না
+    // Rule: 20-tir kom hole quiz hobe na
     if (learnedCount < 20) {
-        alert(`দুঃখিত! কুইজ শুরু করার জন্য কমপক্ষে ২০টি শব্দ পড়া সম্পন্ন থাকতে হবে। আপনার পড়া আছে ${learnedCount}টি শব্দ।`);
+        alert(`Dukkhito! Quiz shuru korar jonno kompokhe 20-ti shobd pora thakte hobe. Apnar pora ache ${learnedCount}-ti shobd.`);
         return;
     }
 
-    let questionCount = 25; // ৩০ বা ৪০টি পড়া হলে ২৫টি প্রশ্ন
+    let questionCount = 25; // 30 ba 40 ti pora hole 25 ti
     if (learnedCount >= 50) {
-        questionCount = 50; // ৫০ বা তার বেশি পড়া হলে ৫০টি র‍্যান্ডম প্রশ্ন
+        questionCount = 50; // 50 ba tar beshi hole 50 ti
     }
 
     const quizArea = document.getElementById('quiz-area');
@@ -268,7 +267,10 @@ function renderMCQQuiz(questions, pool) {
     quizBox.innerHTML = '';
 
     questions.forEach((q, idx) => {
-        const wrongOptions = pool.filter(w => w.id !== q.id).sort(() => 0.5 - Math.random()).slice(0, 3);
+        // Unique options selection (no duplication)[span_1](start_span)[span_1](end_span)
+        const wrongPool = pool.filter(w => w.id !== q.id);
+        const shuffledWrong = [...wrongPool].sort(() => 0.5 - Math.random());
+        const wrongOptions = shuffledWrong.slice(0, 3);
         const options = [...wrongOptions, q].sort(() => 0.5 - Math.random());
 
         const qCard = document.createElement('div');
@@ -276,7 +278,7 @@ function renderMCQQuiz(questions, pool) {
         qCard.setAttribute('id', `q_card_${idx}`);
         qCard.innerHTML = `
             <div class="flex items-center justify-between">
-                <p class="font-bold">${idx + 1}. "${q.english}" শব্দটির সঠিক অর্থ কোনটি?</p>
+                <p class="font-bold">${idx + 1}. "${q.english}" shobd-tir sothik orthok ti konti?</p>
                 <button onclick="speakWord('${q.english}')" class="text-gray-500 hover:text-brand-600"><i class="fa-solid fa-volume-high"></i></button>
             </div>
             <div class="grid grid-cols-1 sm:grid-cols-2 gap-2" id="options_container_${idx}">
@@ -295,12 +297,12 @@ function renderMCQQuiz(questions, pool) {
 
     const submitBtn = document.createElement('button');
     submitBtn.className = "px-6 py-2.5 bg-brand-600 text-white font-bold rounded-lg mt-4 shadow";
-    submitBtn.innerText = "উত্তর জমা দিন";
-    submitBtn.onclick = () => evaluateMCQ(questions.length);
+    submitBtn.innerText = "Uttar Joma Din";
+    submitBtn.onclick = (event) => evaluateMCQ(questions.length, event);
     quizBox.appendChild(submitBtn);
 }
 
-function evaluateMCQ(total) {
+function evaluateMCQ(total, event) {
     let score = 0;
     let wrong = 0;
 
@@ -310,14 +312,13 @@ function evaluateMCQ(total) {
         const feedbackDiv = document.getElementById(`feedback_${i}`);
         const optionsContainer = document.getElementById(`options_container_${i}`);
         
-        // সমস্ত লেবেল ডিজেবল করা
         const labels = optionsContainer.querySelectorAll('.option-label');
         labels.forEach(lbl => {
             const radio = lbl.querySelector('input');
             radio.disabled = true;
             const optId = parseInt(lbl.getAttribute('data-opt-id'));
             
-            // সঠিক উত্তর সবুজ করা[span_4](start_span)[span_4](end_span)
+            // Correct answer color green[span_2](start_span)[span_2](end_span)
             if (optId === correctId) {
                 lbl.classList.add('bg-green-100', 'dark:bg-green-900/40', 'border-green-500', 'text-green-700', 'dark:text-green-300');
             }
@@ -327,39 +328,39 @@ function evaluateMCQ(total) {
             const selectedVal = parseInt(selected.value);
             if (selectedVal === correctId) {
                 score++;
-                feedbackDiv.innerHTML = `<span class="text-green-600">আপনার উত্তর সঠিক!</span>`;
+                feedbackDiv.innerHTML = `<span class="text-green-600">Apnar uttor sothik!</span>`;
             } else {
                 wrong++;
-                // ভুল উত্তর লাল করা[span_5](start_span)[span_5](end_span)
+                // Wrong answer color red[span_3](start_span)[span_3](end_span)
                 labels.forEach(lbl => {
                     const optId = parseInt(lbl.getAttribute('data-opt-id'));
                     if (optId === selectedVal) {
                         lbl.classList.add('bg-red-100', 'dark:bg-red-900/40', 'border-red-500', 'text-red-700', 'dark:text-red-300');
                     }
                 });
-                feedbackDiv.innerHTML = `<span class="text-red-500">আপনার উত্তর ভুল ছিল। সঠিক উত্তরটি সবুজ রঙে চিহ্নিত করা হয়েছে।</span>`;
+                feedbackDiv.innerHTML = `<span class="text-red-500">Apnar uttor bhul chilo. Sothik uttor shobuj rong-e dekhano hoyeche.</span>`;
             }
         } else {
             wrong++;
-            feedbackDiv.innerHTML = `<span class="text-yellow-500">আপনি কোনো উত্তর নির্বাচন করেননি। সঠিক উত্তরটি সবুজ রঙে চিহ্নিত করা হয়েছে।</span>`;
+            feedbackDiv.innerHTML = `<span class="text-yellow-500">Apni kono uttor nirbachon korenni. Sothik uttor shobuj rong-e dekhano hoyeche.</span>`;
         }
         feedbackDiv.classList.remove('hidden');
     }
 
-    // সাবমিট বাটন হাইড করা যাতে দুবার সাবমিট না হয়
-    event.target.style.display = 'none';
+    if (event && event.target) {
+        event.target.style.display = 'none';
+    }
 
     const res = document.getElementById('quiz-results');
-    res.innerText = `পরীক্ষার ফলাফল: আপনি ${total} টির মধ্যে ${score} টি সঠিক এবং ${wrong} টি ভুল উত্তর দিয়েছেন!`;
+    res.innerText = `Examer folafol: Apni ${total} tir modhye ${score} ti sothik ebong ${wrong} ti bhul uttor diyechten!`;
     res.classList.remove('hidden');
 
-    // ডাটাবেস/লোকালস্টোরেজে সংরক্ষণ[span_6](start_span)[span_6](end_span)
     saveExamRecord(total, score, wrong);
 }
 
 function saveExamRecord(total, score, wrong) {
     const now = new Date();
-    const dateStr = now.toLocaleDateString('bn-BD') + ' ' + now.toLocaleTimeString('bn-BD');
+    const dateStr = now.toLocaleDateString() + ' ' + now.toLocaleTimeString();
     const percentage = Math.round((score / total) * 100) + '%';
 
     const record = {
@@ -370,7 +371,7 @@ function saveExamRecord(total, score, wrong) {
         scorePercentage: percentage
     };
 
-    examHistory.unshift(record); // নতুন রেকর্ড প্রথমে যুক্ত হবে
+    examHistory.unshift(record);
     localStorage.setItem('vt_exam_history', JSON.stringify(examHistory));
     renderExamHistory();
 }
@@ -381,7 +382,7 @@ function renderExamHistory() {
     tbody.innerHTML = '';
 
     if (examHistory.length === 0) {
-        tbody.innerHTML = `<tr><td colspan="5" class="py-4 text-center text-gray-500">এখনও কোনো এক্সাম দেওয়া হয়নি।</td></tr>`;
+        tbody.innerHTML = `<tr><td colspan="5" class="py-4 text-center text-gray-500">Ekhono kono exam dewa hoyni.</td></tr>`;
         return;
     }
 
@@ -406,7 +407,7 @@ function renderFavorites() {
     const favWords = vocabulary.filter(w => favoriteWordIds.has(w.id));
 
     if (favWords.length === 0) {
-        container.innerHTML = `<p class="col-span-full text-center text-gray-500 py-10">আপনার পছন্দের কোনো শব্দ এখনও বুকমার্ক করেননি!</p>`;
+        container.innerHTML = `<p class="col-span-full text-center text-gray-500 py-10">Apnar pochhonder kono shobd ekhono bookmark korenni!</p>`;
         return;
     }
 
@@ -460,7 +461,7 @@ function handleAddNewWord(e) {
 
     document.getElementById('addWordForm').reset();
     renderUpdateJsonTab();
-    alert(`"${english}" শব্দটিকে সফলভাবে যোগ করা হয়েছে!`);
+    alert(`"${english}" shobdti shofolvabe jog kora hoyeche!`);
 }
 
 function saveBulkJSONFromArea() {
@@ -470,21 +471,21 @@ function saveBulkJSONFromArea() {
         if (Array.isArray(parsed)) {
             vocabulary = parsed;
             localStorage.setItem('vt_custom_json', JSON.stringify(parsed));
-            alert('JSON সফলভাবে আপডেট ও লোকাল মেমরিতে সেভ করা হয়েছে!');
+            alert('JSON shofolvabe update ebong local memory-te save kora hoyeche!');
         } else {
-            alert('JSON টি অবশ্যই একটি Array হতে হবে!');
+            alert('JSON ti oboshshoi ekti Array hote hobe!');
         }
     } catch (e) {
-        alert('অকার্যকর JSON ফরম্যাট!');
+        alert('Okarjokor JSON format!');
     }
 }
 
 function resetToOriginalJSON() {
-    if (confirm("আপনি কি নিশ্চিত যে লোকাল পরিবর্তন মুছে মূল ফাইল ডাটাতে ফিরে যেতে চান?")) {
+    if (confirm("Apni ki nishchit je local poriborton muche mukh file data-te phire jete chan?")) {
         localStorage.removeItem('vt_custom_json');
         loadVocabularyData().then(() => {
             renderUpdateJsonTab();
-            alert("অরিজিনাল ডাটায় রিকভার করা হয়েছে।");
+            alert("Original data recover kora hoyeche.");
         });
     }
 }
